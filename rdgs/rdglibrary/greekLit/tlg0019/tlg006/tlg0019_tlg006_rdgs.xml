@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Aristophanes' Birds</title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <biblStruct corresp="http://zotero.org/users/5925322/items/2AY69B7R" type="book" xml:id="Dunbar1995"><monogr><title level="m">Aristophanes. Birds</title><idno type="ISBN">0-19-814934-4</idno><author><forename>Nan</forename><surname>Dunbar</surname></author><imprint><pubPlace>Oxford</pubPlace><publisher>Oxford University Press</publisher><date>1995</date></imprint></monogr></biblStruct>
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00351' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον'>εὔερον</rdg>
+<rdg n='00352' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον'>εὐάερον</rdg>
+<rdg n='00353' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον'>ἀέριον</rdg>
+<rdg n='00354' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος'>λιγύφθογγος</rdg>
+<rdg n='00355' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος'>λιγύμοχθος</rdg>
+<rdg n='00356' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος'>λιγύμυθος</rdg>
+<rdg n='00357' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν'>δειπνεῖν</rdg>
+<rdg n='00358' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν'>δὲ πίνειν</rdg>
+<rdg n='00359' change='' ref='urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν'>δὲ πιεῖν</rdg>
+
+
+	  			<rdg change="noneed" n="00051" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:66@ἐροῦ-66@τὰ">ἐρώτα</rdg>
+				<rdg change="noneed1" n="00052" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον">εὔερον</rdg>
+				<rdg change="noneed1" n="00053" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον">εὐάερον</rdg>
+				<rdg change="noneed1" n="00054" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον">ἀέριον</rdg>
+				<rdg change="noneed1" n="00055" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν">δὲ πίνειν</rdg>
+				<rdg change="noneed1" n="00056" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν">δὲ πιεῖν</rdg>
+				<rdg change="noneed1" n="00057" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν">δειπνεῖν</rdg>
+				<rdg change="noneed1" n="00058" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:536@θερμὸν">τοῦτο καθ'ὑμῶν</rdg>
+				<rdg change="noneed1" n="00059" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:566@οἶν">τις ὄιν</rdg>
+				<rdg change="noneed1" n="00060" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:566@οἶν">τις οἶνον</rdg>
+				<rdg change="noneed1" n="00061" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:566@οἶν">βοῦν τις</rdg>
+				<rdg change="noneed1" n="00062" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:566@οἶν">τις βοῦν</rdg>
+				<rdg change="noneed1" n="00063" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:566@οἶν">τις ὗν</rdg>
+				<rdg change="noneed2" n="00064" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:567@θύῃ-567@τι">θύῃ τις</rdg>
+				<rdg change="noneed2" n="00065" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:567@θύῃ-567@τι">τις βοῦν</rdg>
+				<rdg change="noneed2" n="00066" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:567@θύῃ-567@τι">θύῃ τι</rdg>
+				<rdg change="noneed1" n="00067" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:774@Ἕβρον">Ἔβρῳ</rdg>
+				<rdg change="noneed1" n="00068" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:774@Ἕβρον">εὖρον vel εὗρον</rdg>
+				<rdg change="noneed1" n="00069" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:774@Ἕβρον">Ἕβρον</rdg>
+				<rdg change="noneed1" n="00070" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:881@βασκᾷ">βασκᾷ</rdg>
+				<rdg change="noneed1" n="00071" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:881@βασκᾷ">βασιλίσκῳ</rdg>
+				<rdg change="noneed1" n="00072" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1301@ἐμπεποιημένη">ἐμπεποιημένη</rdg>
+				<rdg change="noneed1" n="00073" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1301@ἐμπεποιημένη">ἐμπόνμένη</rdg>
+				<rdg change="noneed1" n="00074" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1301@ἐμπεποιημένη">ἐμπεπληγμένη</rdg>
+				<rdg change="noneed1" n="00075" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1301@ἐμπεποιημένη">ἐπτερωμένη</rdg>
+				<rdg change="noneed1" n="00076" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος">λιγύφθογγος</rdg>
+				<rdg change="noneed1" n="00077" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος">λιγύμοχθος</rdg>
+				<rdg change="noneed1" n="00078" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος">λιγύμυθος</rdg>
+				<rdg change="noneed1" n="00079" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1477@δειλὸν">δῆλον</rdg>
+				<rdg change="noneed1" n="00080" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1477@δειλὸν">δεινὸν</rdg>
+				<rdg change="noneed1" n="00081" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1538@κεραυνὸν">κεραμεύει</rdg>
+				<rdg change="noneed1" n="00082" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1538@κεραυνὸν">ἥπερταμιεύει τὸν κεραυνὸν τοῦ Διὸς</rdg>
+				<rdg change="noneed1" n="00083" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1605@τυραννίδος">βασιλείας</rdg>
+				<rdg change="noneed1" n="00084" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1613@θενών">θενών</rdg>
+				<rdg change="noneed1" n="00085" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1613@θενών">θένων</rdg>
+				<rdg change="noneed1" n="00086" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1613@θενών">σθένων</rdg>
+				<rdg change="noneed1" n="00087" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1613@θενών">θέλων</rdg>
+				<rdg change="noneed1" n="00088" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1623@λούμενος">λούμενος</rdg>
+				<rdg change="noneed1" n="00089" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1623@λούμενος">βουλόμενος</rdg>
+				<rdg change="noneed1" n="00090" ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1684@σιγήσομαι">συμβήσομαι</rdg>
+	  			
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>

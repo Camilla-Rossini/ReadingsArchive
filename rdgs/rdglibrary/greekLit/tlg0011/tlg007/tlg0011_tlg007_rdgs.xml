@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="" schematypens=""?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Sophocles' Oedipus Coloneus</title>
+				        <author>Camilla Rossini</author>
+				        <!--<sponsor></sponsor>
+				        <principal></principal>
+				        <respStmt>
+					          <resp>Prepared under the supervision of</resp>
+				               <name></name>
+				        </respStmt>-->
+			      </titleStmt>
+			      <publicationStmt>
+				        <!--<publisher></publisher>
+				        <pubPlace></pubPlace>
+				        <authority></authority>-->
+			        <date type="release" cert="">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <biblStruct type="book" xml:id="Dawe2013" corresp="http://zotero.org/users/5925322/items/D99845TB"><monogr><title level="m">Oedipus Coloneus</title><idno type="ISBN">3-11-097977-2</idno><author><forename>Roger D</forename><surname>Dawe</surname></author><imprint><publisher>Walter de Gruyter</publisher><date>2013</date></imprint></monogr></biblStruct>
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	<!-- ?? -->
+        </refsDecl>
+			      <!--<refsDecl>
+				        <refState unit="book"/>
+				        <refState unit="line"/>
+			      </refsDecl>-->
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who=""></change>	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00160' change='' ref='urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος'>λέχος </rdg>
+<rdg n='00161' change='' ref='urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος'>λόγος</rdg>
+<rdg n='00171' change='' ref='urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:66@λόγος'>λόγος</rdg>
+<rdg n='00172' change='' ref='urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:66@λόγος'>κράτος</rdg>
+<rdg n='00173' change='' ref='urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:66@λόγος'>σθένος</rdg>
+<rdg n='00174' change='' ref='urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:66@λόγος'>τέλος</rdg>
+<rdg n='00175' change='' ref='urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:66@λόγος'>ἰσχύς</rdg>
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>
+
+<!-- 
+
+
+
+
+
+	-->

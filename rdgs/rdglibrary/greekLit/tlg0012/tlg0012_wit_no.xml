@@ -1,0 +1,18 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <body>
+    <listWit>
+
+      <witness xml:id="xx">xxxxx</witness>
+
+
+    </listWit>
+
+
+    <wit witName="x">
+      <rdg ref="xx" />
+      
+    </wit>
+  </body>
+</TEI>
+
+'urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος:rdgs:μόρον' : ['Mγρ'],

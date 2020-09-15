@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title></title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				      
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+		    <listWit>
+				<witness xml:id=""></witness>
+			</listWit>
+			<listBibl>
+				<bibl xml:id="Dorandi"></bibl>			
+			</listBibl>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		
+			<wit witName="Mq">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δειπνεῖν" />
+			</wit>
+			<wit witName="V">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν " hand="9" />
+
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:λέγω" />
+	
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:ποεῖν " />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:γενήσεται" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:φανήσεται" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:αἰτίας" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:ὑγρότητα" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:σοφὸν" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δειπνεῖν" />
+			</wit>
+			<wit witName="a">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:πάνυ φροντίζετε" />
+			</wit>
+			<wit witName="E">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον" type="correction" />
+			</wit>
+			<wit witName="N">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:λέγουσʼ" />
+			"
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον" />
+			</wit>
+			<wit witName="Θ">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον" type="varia lectio" />
+			</wit>
+			<wit witName="cett.">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:ἕλω" />
+			</wit>
+			<wit witName="λΣE">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον" />
+			</wit>
+			<wit witName="M">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:417@οἴνου:rdgs:ὕπνου" />
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" place="margin" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ πίνειν" />
+			</wit>
+			<wit witName="B">
+				<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμοχθος" type="varia lectio" />
+				<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" />
+				<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:ἀέριον" place="margin" />
+				<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος" hand="2" />
+			</wit>
+			<wit witName="Sud">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μέγα φροντίζετε" hand="2" />
+			</wit>
+			<wit witName="S">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:τἀττικὸν et τακτικὸν" />
+			</wit>
+			<wit witName="Ald.">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:παθεῖν " hand="1" />
+			</wit>
+			<wit witName="L">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" />
+			</wit>
+			<wit witName=" λΣEΓ">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος" />
+			</wit>
+			<wit witName="cj. Bentley">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μεταφροντίζετε" />
+			</wit>
+			<wit witName="K">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον" />
+			</wit>
+			<wit witName="S">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:Ἀττικὴ" />
+			</wit>
+			<wit witName="A">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος" hand="3" />
+		
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ πίνειν" />
+			</wit>
+			<wit witName="E">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον" type="original" />
+			</wit>
+			<wit witName="Mq">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμυθος" />
+			</wit>
+			<wit witName="Π">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον" />
+			</wit>
+			<wit witName="Aq">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὐάερον" hand="2" />
+			</wit>
+			<wit witName="R">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:14@υἱόν:rdgs:θεὸν υἱὸν " type="original" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ὑγρούς" />
+			</wit>
+			<wit witName="V">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:οἰκίας" type="varia lectio" />
+			</wit>
+			<wit witName="ΣE">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον" />
+			</wit>
+			<wit witName="Γ">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ πιεῖν" />
+			</wit>
+			<wit witName=" Zonar.">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" />
+			</wit>
+			<wit witName="U">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:ἀέριον" place="margin" />
+			</wit>
+			<wit witName="E">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:λέγουσʼ" hand="2" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:417@οἴνου:rdgs:ὕπνου" />
+		
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος" />
+			</wit>
+			<wit witName="ΣS">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" />
+			</wit>
+			<wit witName="ΣV">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ πιεῖν" />
+			</wit>
+			<wit witName="ΣVEΓ">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμυθος" type="varia lectio" />
+			</wit>
+			<wit witName="⊂ ΣR">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μεταφροντίζετε" hand="3" />
+			</wit>
+		
+
+			<wit witName="Starkie">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:νυν φροντίζετε" hand="2" />
+			</wit>
+			<wit witName="Sauppe">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:παλιν φροντίζετε" />
+			</wit>
+			<wit witName="ΣEΓ">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμοχθος" type="varia lectio" />
+			</wit>
+			<wit witName="R">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσʼ" hand="3" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:ἕλω" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:ποεῖν " />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος" />
+			
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δειπνεῖν" />
+			</wit>
+			<wit witName="Θ">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:λέγουσʼ" />
+			</wit>
+			<wit witName="ΣR">
+			<rdg ref="urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον" />
+			</wit>
+
+	  	</body>
+	  </text>
+	</TEI>
+
+<!--
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:14@υἱόν:rdgs:θεὸν υἱὸν ' : ['Rac'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:14@υἱόν:rdgs:υἱόν' : [''], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσʼ' : ['R'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν ' : ['V'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:λέγουσʼ' : ['ENΘ'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:ἕλω' : ['R, cett.'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:λέγω' : ['V'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:παθεῖν ' : ['Ald.'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:ποεῖν ' : ['RV'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:γενήσεται' : ['V'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:φανήσεται' : ['V'], 
+
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ὑγρούς' : ['Rac'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:Ἀττικὴ' : ['S3'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:τἀττικὸν et τακτικὸν' : ['S1'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:αἰτίας' : ['V'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:οἰκίας' : ['Vgr'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μέγα φροντίζετε' : ['Sud'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μεταφροντίζετε' : ['⊂ ΣR, cj. Bentley'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:νυν φροντίζετε' : ['Starkie'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:παλιν φροντίζετε' : ['Sauppe'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:πάνυ φροντίζετε' : ['a'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον' : ['REpcKNΘγρΣRVE'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον' : ['VEac λΣE : [Π2]'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:ὑγρότητα' : ['V'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:417@οἴνου:rdgs:ὕπνου' : ['EM'], 
+'urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:σοφὸν' : ['V'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:ἀέριον' : ['UB2mg'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὐάερον' : ['Aq'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον' : ['RVEMΓBLM2mg ΣS Zonar.'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμοχθος' : ['B2γρs γρΣEΓ3'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμυθος' : ['Mq γρΣVEΓ3'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος' : ['RVEAΓUB2γρ λΣEΓ'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ πιεῖν' : ['ΓU'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ πίνειν' : ['MA'], 
+'urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δειπνεῖν' : ['RVM9q'], 
+
+
+  -->

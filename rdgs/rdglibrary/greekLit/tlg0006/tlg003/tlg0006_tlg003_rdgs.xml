@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	 <teiHeader>
+		   <fileDesc>
+			     <titleStmt>
+				       <title>Readings from some manuscripts of the tradition of Euripides' Medea</title>
+				       <author>Camilla Rossini</author>
+				       
+			     </titleStmt>
+			     <publicationStmt>
+				       
+			       <date cert="" type="release">2020</date>
+			     </publicationStmt>
+			     <sourceDesc>
+				       <biblStruct type="book" xml:id="Van_Looy1992" corresp="http://zotero.org/users/5925322/items/L94N39V6"><monogr><title level="m">Euripides. Medea</title><idno type="ISBN">978-3-11-096230-7</idno><author><forename>Herman</forename><surname>Van Looy</surname></author><imprint><publisher>De Gruyter</publisher><date>1992</date><note type="accessed">2020-04-15T08:33:44Z</note><note type="url">https://www.degruyter.com/view/title/29718</note></imprint></monogr></biblStruct>
+			     </sourceDesc>
+		   </fileDesc>
+		   <encodingDesc>
+        <refsDecl n="CTS">
+         	
+       </refsDecl>
+			     
+		   </encodingDesc>
+		   <profileDesc>
+			     <langUsage>
+				       <language ident="grc">Greek</language>
+				       <language ident="en">English</language>
+			     </langUsage>
+		   </profileDesc>
+		   <revisionDesc>
+           <change when="" who="" />	
+
+		   </revisionDesc>
+	 </teiHeader>
+	 <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00241' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:261@θυμουμένην'>μισουμένην</rdg>
+<rdg n='00242' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:261@θυμουμένην'>θυμουμένην</rdg>
+<rdg n='00243' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι.-289@οὖν'>τε πολλά τοὺς</rdg>
+<rdg n='00244' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι.-289@οὖν'>τι. ταῦτʼ οὖν</rdg>
+<rdg n='00245' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:290@γύναι'>γύναι</rdg>
+<rdg n='00246' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:290@γύναι'>πλέον</rdg>
+<rdg n='00247' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:290@γύναι'>ξένε</rdg>
+<rdg n='00248' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:329@πολύ'>πολύ</rdg>
+<rdg n='00249' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:329@πολύ'>πόλις</rdg>
+<rdg n='00250' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:351@προυννέπω'>προτρέπω</rdg>
+<rdg n='00251' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:351@προυννέπω'>προυννέπω</rdg>
+<rdg n='00252' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:374@ἐχθρῶν'>ἐχθρῶν</rdg>
+<rdg n='00253' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:374@ἐχθρῶν'>om.</rdg>
+<rdg n='00254' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:374@νεκρούς'>ἐγώ</rdg>
+<rdg n='00255' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:374@νεκρούς'>νεκρούς</rdg>
+<rdg n='00256' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:400@κῆδος'>κῆδος</rdg>
+<rdg n='00257' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:400@κῆδος'>κῦδος</rdg>
+<rdg n='00258' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:503@πάτραν'>πάτραν</rdg>
+<rdg n='00259' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:503@πάτραν'>πρῶταν</rdg>
+<rdg n='00260' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:594@γῆμαί'>γῆμαί</rdg>
+<rdg n='00261' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:594@γῆμαί'>τλῆναι</rdg>
+<rdg n='00262' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:608@ἀραία-608@οὖσα'>ἀρὰς διδοῦσα</rdg>
+<rdg n='00263' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:608@ἀραία-608@οὖσα'>ἀραία γʼ οὖσα</rdg>
+
+	  			<rdg n='00001' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:25@χρόνον'>χρόα</rdg>
+				<rdg n='00002' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:60@ζηλῶ-60@σ᾽'>ζηλῶ σ'</rdg>
+				<rdg n='00003' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:60@ζηλῶ-60@σ᾽'>ζηλοῦσ'</rdg>
+				<rdg n='00004' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:178@μήτοι'>μή μοι</rdg>
+				<rdg n='00005' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:178@μήτοι-178@μήτοι'>μήτοι</rdg>
+				<rdg n='00006' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:178@μήτοι-178@μήτοι'>μή τι </rdg>
+				<rdg n='00007' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:271@θυμουμένην'>μισουμένην </rdg>
+				<rdg n='00008' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:280@πάσχουσ’'>λέγουσ' </rdg>
+				<rdg n='00009' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:284@συμβάλλεται'>συλλαμβάνει </rdg>
+				<rdg n='00010' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:284@συμβάλλεται'>συμβάλλεσθαι </rdg>
+				<rdg n='00011' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι-289@οὖν'>τε πολλά τοὺς </rdg>
+				<rdg n='00012' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:290@γύναι'>πλέον </rdg>
+				<rdg n='00013' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:290@γύναι'>ξένε </rdg>
+				<rdg n='00014' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:293@δόξα-293@δόξα'>δόξαι</rdg>
+				<rdg n='00015' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:293@δόξα'>γλῶσσα</rdg>
+				<rdg n='00016' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:298@σοφὰ'>καινὰ</rdg>
+				<rdg n='00017' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:298@σοφὰ'>ἔπη</rdg>
+				<rdg n='00018' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:307@ἔχει-307@μοι'>ἔχοιμι </rdg>
+				<rdg n='00019' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:307@ἔχει-307@μοι'>ἔχει μοι</rdg>
+				<rdg n='00020' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:329@πολύ'>πόλις </rdg>
+				<rdg n='00021' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:351@προυννέπω-351@προυννέπω'>προτρέπω</rdg>
+				<rdg n='00022' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:373@ἐχθρῶν-373@ἐχθρῶν'>ἐχθρῶν </rdg>
+				<rdg n='00023' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:373@νεκροὺς'>ἐγώ</rdg>
+				<rdg n='00024' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:384@εὐθεῖαν'>σοφίαν</rdg>
+				<rdg n='00025' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:384@εὐθεῖαν'>τέχνην</rdg>
+				<rdg n='00026' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:385@ἑλεῖν'>ἑλεῖν </rdg>
+				<rdg n='00027' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:385@ἑλεῖν'>κτανεῖν</rdg>
+				<rdg n='00028' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:400@κῆδος'>κῦδος</rdg>
+				<rdg n='00029' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:425@ὤπασε'>ἔπνευσε </rdg>
+				<rdg n='00030' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:440@μένει '>μίμνει </rdg>
+				<rdg n='00031' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:440@μένει '>μένει</rdg>
+				<rdg n='00032' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:448@ἔχειν'>οἰκεῖν</rdg>
+				<rdg n='00033' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:448@ἔχειν'>ἔχειν</rdg>
+				<rdg n='00034' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:474@κλύων'>πλέον </rdg>
+				<rdg n='00035' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:487@δόμον'>φόβον</rdg>
+				<rdg n='00036' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:499@κοινώσομαι'>πειράσομαι </rdg>
+				<rdg n='00037' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:503@πάτραν'>πρῶταν </rdg>
+				<rdg n='00038' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:513@φίλων'>δόμων</rdg>
+				<rdg n='00039' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:531@δέμας'>χέρας </rdg>
+				<rdg n='00040' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:538@χάριν'>χάριν</rdg>
+				<rdg n='00041' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:538@χάριν'>θράσει </rdg>
+				<rdg n='00042' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:590@μέγαν-590@χόλον'>μελάγκολος</rdg>
+				<rdg n='00043' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:594@γῆμαί'>τληναι</rdg>
+				<rdg n='00044' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:608@ἀραία-608@οὖσα'>ἀρὰς διδοῦσα</rdg>
+				<rdg n='00045' change='' ref='urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:640@ἐκλήξασ’-640@ἐκλήξασ’'>ἐκπλήσασ’ </rdg>
+			</readings>
+	  	</body>
+	 </text>
+	</TEI>

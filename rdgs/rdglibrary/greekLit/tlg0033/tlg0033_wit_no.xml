@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <body>
+    <listWit>
+
+      <witness xml:id="Π2">xxxxx</witness>
+      <witness xml:id="A">xxxxx</witness>
+      <witness xml:id="G">xxxxx</witness>
+
+
+    </listWit>
+
+
+    <wit witName="Π2">
+      <rdg ref="urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὔφρονος" />      
+    </wit>
+    <wit witName="A">
+      <rdg ref="urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων:rdgs:ἀφθόγγων" />      
+    </wit>
+    <wit witName="G">
+      <rdg ref="urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:9.14@ἐλελίζων:rdgs:ἐγχελίζων" />      
+    </wit>
+  </body>
+</TEI>
+

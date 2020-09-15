@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Priapea</title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <biblStruct corresp="http://zotero.org/users/5925322/items/A9TJBRMY" type="journalArticle" xml:id="Bornecque1927">
+				        	<analytic>
+				        		<title level="a">Collation du manuscrit de Saint-Gall des Amours d'Ovide</title>
+				        		<author>
+				        			<forename>Jacques-Henry</forename>
+				        			<surname>Bornecque</surname>
+				        		</author>
+				        	</analytic>
+				        	<monogr>
+				        		<title level="j">Revue de Philologie,  de Littérature et d’Histoire Anciennes</title>
+				        		<idno type="ISSN">0035-1652</idno>
+				        		<imprint>
+				        			<biblScope unit="page">354-361</biblScope>
+				        			<date>1927</date>
+				        		</imprint>
+				        	</monogr>
+				        </biblStruct>
+			      </sourceDesc>
+			      <sourceDesc>
+				        <biblStruct type="book" xml:id="Codoñer2018" corresp="http://zotero.org/users/5925322/items/IR3W2RPE"><monogr><title level="m">Priapea</title><idno type="ISBN">978-84-17288-02-0</idno><author><forename>Carmen</forename><surname>Codoñer</surname></author><author><forename>Juan Antonio</forename><surname>González</surname></author><imprint><publisher>Servicio de Publicaciones de la Universidad de Huelva</publisher><date>2018</date></imprint></monogr></biblStruct>
+
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="lat">Latin</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="lat, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00385' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.2@minare'>minare</rdg>
+<rdg n='00386' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.2@minare'>rumere</rdg>
+
+<rdg n='00001' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo'>equo</rdg>
+<rdg n='00002' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum'>vergeneum</rdg>
+<rdg n='00003' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum'>ingenuum</rdg>
+<rdg n='00004' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum'>inguineum</rdg>
+<rdg n='00005' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum'>inguen</rdg>
+<rdg n='00006' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure'>obscene</rdg>
+<rdg n='00007' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.3@frustra'>fratri</rdg>
+<rdg n='00008' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas'>pietas</rdg>
+<rdg n='00009' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior'>senior</rdg>
+<rdg n='00010' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior'>non iunior</rdg>
+<rdg n='00011' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior'>minor</rdg>
+<rdg n='00012' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior'>non minor</rdg>
+<rdg n='00013' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior'>canior</rdg>
+<rdg n='00014' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit'>hec creavit</rdg>
+<rdg n='00015' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit'>escreavit</rdg>
+<rdg n='00016' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit'>hic screavit</rdg>
+<rdg n='00017' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit'>hic screvit</rdg>
+
+<rdg n='00019' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:14.1@in-14.1@dei'>iudei</rdg>
+<rdg n='00020' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:16.7@puer'>pius</rdg>
+<rdg n='00021' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:17.3@redibit'>ridebit</rdg>
+<rdg n='00022' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:20.5@tenta'>tanta</rdg>
+<rdg n='00023' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:20.5@tenta'>tecta</rdg>
+<rdg n='00024' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:24.3@poenam'>penem</rdg>
+<rdg n='00026' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:27.6@exemplum'>templum</rdg>
+<rdg n='00027' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:36.4@paeto'>pecto</rdg>
+<rdg n='00028' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:36.4@paeto'>pectore</rdg>
+<rdg n='00029' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:37.2@procreamur'>precamur</rdg>
+<rdg n='00030' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:40.2@puto'>puta</rdg>
+<rdg n='00031' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:40.2@suo'>dea</rdg>
+<rdg n='00032' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:42.1@laetus'>lectus</rdg>
+<rdg n='00033' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.1@velle'>pelle</rdg>
+<rdg n='00034' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.2@mihi'>viro</rdg>
+<rdg n='00035' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@usibus'>versibus</rdg>
+<rdg n='00036' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@usibus'>lusibus</rdg>
+<rdg n='00037' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@rudis'>nudis</rdg>
+<rdg n='00038' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:45.4@heus'>deus</rdg>
+<rdg n='00039' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:46@rivedi'>?</rdg>
+<rdg n='00040' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima'>fucosissima</rdg>
+<rdg n='00041' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima'>ioccosissima</rdg>
+<rdg n='00042' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima'>morbosissima</rdg>
+<rdg n='00043' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima'>ficosissima</rdg>
+<rdg n='00044' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.5@fruenda'>futuenda</rdg>
+<rdg n='00045' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:51@rivedi'>?</rdg>
+<rdg n='00046' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus'>miciatus</rdg>
+<rdg n='00047' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus'>mentulatus</rdg>
+<rdg n='00048' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus'>expectis</rdg>
+<rdg n='00049' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:55.2@digitis'>manibus</rdg>
+<rdg n='00050' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:57.2@putida'>pudica</rdg>
+<rdg n='00051' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:57.2@putida'>putrida</rdg>
+<rdg n='00052' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.2@caniculam'>cunicula</rdg>
+<rdg n='00053' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa'>pruinosa</rdg>
+<rdg n='00054' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa'>pruriginosa</rdg>
+<rdg n='00055' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:66.3@nisi'>mensi</rdg>
+<rdg n='00056' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:67.2@cadmi'>di tutto</rdg>
+<rdg n='00057' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.31@arrectos'>e(r)rectos</rdg>
+<rdg n='00058' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum'>libido</rdg>
+<rdg n='00059' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.3@inguen'>?</rdg>
+<rdg n='00060' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.10@famelicorum'>maleficorum</rdg>
+<rdg n='00061' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.1@pomari'>pomerij</rdg>
+<rdg n='00062' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.2@minare'>rumere</rdg>
+<rdg n='00063' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:74.1@medios'>moechos</rdg>
+<rdg n='00064' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:74.1@medios'>mecos</rdg>
+<rdg n='00065' change='' ref='urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:78@VARIANTI BELLISSIME DI CUNNILINGE'>?</rdg>
+
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>

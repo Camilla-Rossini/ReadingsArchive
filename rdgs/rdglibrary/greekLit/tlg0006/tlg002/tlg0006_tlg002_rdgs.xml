@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	 <teiHeader>
+		   <fileDesc>
+			     <titleStmt>
+				       <title>Readings from some manuscripts of the tradition of Euripides' Alcestis</title>
+				       <author>Camilla Rossini</author>
+				       
+			     </titleStmt>
+			     <publicationStmt>
+				       
+			       <date cert="" type="release">2020</date>
+			     </publicationStmt>
+			     <sourceDesc>
+				       <biblStruct type="book" xml:id="Garzya1983" corresp="http://zotero.org/users/5925322/items/Y9PKGAKI"><monogr><title level="m">Euripides. Alcestis</title><author><forename>Antonio</forename><surname>Garzya</surname></author><imprint><pubPlace>Berlin-New York</pubPlace><publisher>De Gruyter</publisher><date>1983</date></imprint></monogr></biblStruct>
+			     </sourceDesc>
+		   </fileDesc>
+		   <encodingDesc>
+        <refsDecl n="CTS">
+         	
+       </refsDecl>
+			     
+		   </encodingDesc>
+		   <profileDesc>
+			     <langUsage>
+				       <language ident="grc">Greek</language>
+				       <language ident="en">English</language>
+			     </langUsage>
+		   </profileDesc>
+		   <revisionDesc>
+           <change when="" who="" />	
+
+		   </revisionDesc>
+	 </teiHeader>
+	 <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00233' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:0.2.23@Ἀπόλλων'>ἥλιος</rdg>
+<rdg n='00234' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:0.2.23@Ἀπόλλων'>Ἀπόλλων</rdg>
+<rdg n='00235' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:0.2@Θάνατος'>χάρων</rdg>
+<rdg n='00236' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:0.2@Θάνατος'>Θάνατος</rdg>
+<rdg n='00237' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:1089@λέχος'>λέχος</rdg>
+<rdg n='00238' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:1089@λέχος'>μόνος</rdg>
+<rdg n='00239' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:665@θάψω'>θάψω</rdg>
+<rdg n='00240' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:665@θάψω'>θάλψω</rdg>
+
+	  			<rdg n='00057' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:4@hyp.Ἀπόλλων'>ἥλιος </rdg>
+				<rdg n='00058' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:@pers.Θάνατος'>χάρων </rdg>
+				<rdg n='00059' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:38@τοι'>τοι</rdg>
+				<rdg n='00060' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:38@τοι'>τε</rdg>
+				<rdg n='00061' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:41@ἐνδίκως'>ἐκδίκως </rdg>
+				<rdg n='00062' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:58@λελήθας'>ἐλήλυθας </rdg>
+				<rdg n='00063' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:58@λελήθας'>πέφυκας </rdg>
+				<rdg n='00064' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:128@διόβολον'>διάβολον </rdg>
+				<rdg n='00083' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:128@διόβολον'>διόβολον </rdg>
+				<rdg n='00065' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:141@θανοῦσαν'>θανεῖν ἔξεστί σοι </rdg>
+				<rdg n='00066' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:210@τι'>τι</rdg>
+				<rdg n='00067' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:210@τι'>τοι</rdg>
+				<rdg n='00068' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:256@τάδε-256@με'>τάδε τοί με </rdg>
+				<rdg n='00069' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:256@τάδε-256@με'>τάδ'ἕτοιμα </rdg>
+				<rdg n='00070' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:395@ἁλίωι'>ἡλίῳ </rdg>
+				<rdg n='00071' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:404@ὥστ’-404@ἐγὼ'>οὔτ'ἔσω </rdg>
+				<rdg n='00072' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:425@λέγω-426@λέγω'>θέλω</rdg>
+				<rdg n='00084' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:425@λέγω-426@λέγω'>λέγω</rdg>
+				<rdg n='00073' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:435@μόνη.-435@μόνη'>λίαν </rdg>
+				<rdg n='00074' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:500@αἶπος-500@αἶπος'>ἔπος </rdg>
+				<rdg n='00075' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω'>θάλψω </rdg>
+				<rdg n='00076' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:697@λέγεις'>ψέγεις</rdg>
+				<rdg n='00085' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:697@λέγεις'>λέγεις</rdg>
+				<rdg n='00077' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:713@ζώηις'>ζώοις</rdg>
+				<rdg n='00078' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:837@χεὶρ'>ψυχή τ'</rdg>
+				<rdg n='00079' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:984@εἷλε'>ἦλθε </rdg>
+				<rdg n='00080' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1022@ἕως ἂν ἵππους δεῦρο Θρηικίας ἄγων / ἔλθω,'>ἔνθα </rdg>
+				<rdg n='00081' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1089@χηρεύσηι-1089@λέχος'>χηρεύεις μόνος </rdg>
+				<rdg n='00082' change='' ref='urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1114@δῶμα δ’'>δώματα </rdg>
+			</readings>
+	  	</body>
+	 </text>
+	</TEI>
+
+
+
+
+

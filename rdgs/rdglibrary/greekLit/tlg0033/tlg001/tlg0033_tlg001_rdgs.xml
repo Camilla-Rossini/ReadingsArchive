@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Pyndar's Ol.</title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+	
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00368' change='' ref='urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις'>εὐθρόνοις</rdg>
+<rdg n='00369' change='' ref='urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις'>εὔφρονος</rdg>
+<rdg n='00370' change='' ref='urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων'>ἀγαφθέγκτων</rdg>
+<rdg n='00371' change='' ref='urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων'>ἀφθόγγων</rdg>
+<rdg n='00372' change='' ref='urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:9.14@ἐλελίζων'>ἐλελίζων</rdg>
+<rdg n='00373' change='' ref='urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:9.14@ἐλελίζων'>ἐγχελίζων</rdg>
+	  			
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>

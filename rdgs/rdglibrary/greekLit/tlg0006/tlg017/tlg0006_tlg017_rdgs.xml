@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	 <teiHeader>
+		   <fileDesc>
+			     <titleStmt>
+				       <title>Readings from some manuscripts of the tradition of Euripides' Bacchae</title>
+				       <author>Camilla Rossini</author>
+				       
+			     </titleStmt>
+			     <publicationStmt>
+				       
+			       <date cert="" type="release">2020</date>
+			     </publicationStmt>
+			     <sourceDesc>
+				       <biblStruct corresp="http://zotero.org/users/5925322/items/JYVE7DD9" type="book" xml:id="Dodds1960"><monogr><title level="m">Euripides. Bacchae</title><author><forename>Eric Robertson</forename><surname>Dodds</surname></author><imprint><pubPlace>Oxford</pubPlace><publisher>Oxford University Press</publisher><date>1960</date></imprint></monogr></biblStruct>
+			     </sourceDesc>
+		   </fileDesc>
+		   <encodingDesc>
+        <refsDecl n="CTS">
+         	
+       </refsDecl>
+			     
+		   </encodingDesc>
+		   <profileDesc>
+			     <langUsage>
+				       <language ident="grc">Greek</language>
+				       <language ident="en">English</language>
+			     </langUsage>
+		   </profileDesc>
+		   <revisionDesc>
+           <change when="" who="" />	
+
+		   </revisionDesc>
+	 </teiHeader>
+	 <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00279' change='' ref='urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε'>μέθεσθε</rdg>
+<rdg n='00280' change='' ref='urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε'>μαίνεσθε</rdg>
+			</readings>
+	  	</body>
+	 </text>
+	</TEI>

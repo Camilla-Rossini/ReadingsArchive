@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="" schematypens=""?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	 <teiHeader>
+		   <fileDesc>
+			     <titleStmt>
+				       <title>Readings from some manuscripts of the tradition of Euripides' Electra</title>
+				       <author>Camilla Rossini</author>
+				       <!--<sponsor></sponsor>
+				       <principal></principal>
+				       <respStmt>
+					         <resp>Prepared under the supervision of</resp>
+				              <name></name>
+				       </respStmt>-->
+			     </titleStmt>
+			     <publicationStmt>
+				       <!--<publisher></publisher>
+				       <pubPlace></pubPlace>
+				       <authority></authority>-->
+			       <date type="release" cert="">2020</date>
+			     </publicationStmt>
+			     <sourceDesc>
+				       <biblStruct type="book" xml:id="Basta_Donzelli1995" corresp="http://zotero.org/users/5925322/items/AKSAYG9G"><monogr><title level="m">Euripides. Electra</title><author><forename>G.</forename><surname>Basta Donzelli</surname></author><imprint><pubPlace>Stuttgard- Leipzig</pubPlace><publisher>Teubner</publisher><date>1995</date></imprint></monogr></biblStruct>
+			     </sourceDesc>
+		   </fileDesc>
+		   <encodingDesc>
+        <refsDecl n="CTS">
+         	<!-- ?? -->
+       </refsDecl>
+			     <!--<refsDecl>
+				       <refState unit="book"/>
+				       <refState unit="line"/>
+			     </refsDecl>-->
+		   </encodingDesc>
+		   <profileDesc>
+			     <langUsage>
+				       <language ident="grc">Greek</language>
+				       <language ident="en">English</language>
+			     </langUsage>
+		   </profileDesc>
+		   <revisionDesc>
+           <change when="" who=""></change>	
+
+		   </revisionDesc>
+	 </teiHeader>
+	 <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00269' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας'>γυναῖκας</rdg>
+<rdg n='00270' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας'>δὲ γυμνὰς</rdg>
+<rdg n='00271' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας-311@παρθένος'>δὲ γυμνὰς οὖσα παρθένους</rdg>
+<rdg n='00272' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:435@φί̆λαυλος'>φί̆λαυλος</rdg>
+<rdg n='00273' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:435@φί̆λαυλος'>φιλάδελφος</rdg>
+
+
+	  			<rdg n='00001' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:685@θανεῖν'>κτανεῖν</rdg>
+<rdg n='00002' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:685@θανεῖν'>θανεῖν</rdg>
+<rdg n='00039' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:606@τοι'> τοι </rdg>
+<rdg n='00040' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:606@τοι'>τὸ</rdg>
+<rdg n='00150' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων'>δούλων </rdg>
+<rdg n='00151' change='' ref='urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων'>λέξων </rdg>
+			</readings>
+	  	</body>
+	 </text>
+	</TEI>
+

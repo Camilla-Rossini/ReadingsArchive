@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Deipnosophistae</title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <biblStruct>
+					          <monogr>
+						            <title>Title</title>
+						            <author>Author</author>
+						            <editor role="editor">Editor</editor>
+						            <imprint>
+							              <pubPlace>Place</pubPlace>
+							              <publisher>publisher</publisher>
+							              <date>date</date>
+						            </imprint>
+					          </monogr>
+				        </biblStruct>
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00287' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:27.9@ἐναντίοι'>ἐναντίοι</rdg>
+				<rdg n='00288' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:27.9@ἐναντίοι'>ἐναντίοισι</rdg>
+				<rdg n='00289' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:27.9@ἐναντίοι'>ἐν μανία</rdg>
+			</readings> 
+	  	</body>
+	  </text>
+	</TEI>
+
+<!--
+	  			<rdg n='00130' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:1.2@δείπνῳ'>λόγῳ</rdg>
+<rdg n='00131' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:1.2@δείπνῳ'>δείπνῳ </rdg>
+<rdg n='00137' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.79@καλούμενα'>λεγόμενα </rdg>
+<rdg n='00138' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.80@καλούμενα'>καλούμενα</rdg>
+
+<rdg n='00281' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:48.20@Τριφολῖνος'>Τριφολῖνος</rdg>
+<rdg n='00282' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:48.20@Τριφολῖνος'>Τριφαλῖνος</rdg>
+<rdg n='00283' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:54.10@πρίηπος'>πρίηπος</rdg>
+<rdg n='00284' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:54.10@πρίηπος'>πρίαμος</rdg>
+<rdg n='00285' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:2.4@μόνος'>μόνος</rdg>
+<rdg n='00286' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:2.4@μόνος'>μόνιος</rdg>
+
+<rdg n='00290' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:4.21@Πομπιλίου'>Πομπιλίου</rdg>
+<rdg n='00291' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:4.21@Πομπιλίου'>πομπηίου</rdg>
+<rdg n='00292' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:5.34@ἐκ-5.34@Γέλας'>ἐκ Γέλας</rdg>
+<rdg n='00293' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:5.34@ἐκ-5.34@Γέλας'>ε(trattino_soprascr) ἀγέλας</rdg>
+<rdg n='00294' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:6.26@Σκιάθῳ'>Σκιάθῳ</rdg>
+<rdg n='00295' change='' ref='urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:6.26@Σκιάθῳ'>συμαίθῳ</rdg>
+ -->

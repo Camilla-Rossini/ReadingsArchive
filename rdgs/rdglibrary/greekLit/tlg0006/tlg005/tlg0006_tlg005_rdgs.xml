@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="" schematypens=""?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	 <teiHeader>
+		   <fileDesc>
+			     <titleStmt>
+				       <title>Readings from some manuscripts of the tradition of Euripides' Hippolytos</title>
+				       <author>Camilla Rossini</author>
+				       <!--<sponsor></sponsor>
+				       <principal></principal>
+				       <respStmt>
+					         <resp>Prepared under the supervision of</resp>
+				              <name></name>
+				       </respStmt>-->
+			     </titleStmt>
+			     <publicationStmt>
+				       <!--<publisher></publisher>
+				       <pubPlace></pubPlace>
+				       <authority></authority>-->
+			       <date type="release" cert="">2020</date>
+			     </publicationStmt>
+			     <sourceDesc>
+				       <biblStruct type="book" xml:id="Stockert2013" corresp="http://zotero.org/users/5925322/items/WDTM6EL4"><monogr><title level="m">Hippolytus</title><idno type="ISBN">3-11-096625-5</idno><author><forename>Walter</forename><surname>Stockert</surname></author><imprint><publisher>Walter de Gruyter</publisher><date>2013</date></imprint></monogr></biblStruct>
+			     </sourceDesc>
+		   </fileDesc>
+		   <encodingDesc>
+        <refsDecl n="CTS">
+         	<!-- ?? -->
+       </refsDecl>
+			     <!--<refsDecl>
+				       <refState unit="book"/>
+				       <refState unit="line"/>
+			     </refsDecl>-->
+		   </encodingDesc>
+		   <profileDesc>
+			     <langUsage>
+				       <language ident="grc">Greek</language>
+				       <language ident="en">English</language>
+			     </langUsage>
+		   </profileDesc>
+		   <revisionDesc>
+           <change when="" who=""></change>	
+
+		   </revisionDesc>
+	 </teiHeader>
+	 <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00132' change='' ref='urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:0.16@καταμαθοῦσα'>ἰδοῦσα </rdg>
+				<rdg n='00133' change='' ref='urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:0.16@καταμαθοῦσα'>καταμαθοῦσα</rdg>
+				<rdg n='00164' change='' ref='urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον'>λόγον</rdg>
+				<rdg n='00165' change='' ref='urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον'>λόγων</rdg>
+				<rdg n='00166' change='' ref='urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον'>πλόκον</rdg>
+				<rdg n='00202' change='' ref='urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα'>πράγματα</rdg>
+				<rdg n='00203' change='' ref='urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα'>γράματα</rdg>
+				<rdg n='00204' change='' ref='urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα'>πράγματα</rdg>
+			</readings>
+	  	</body>
+	 </text>
+	</TEI>
+

@@ -1,0 +1,957 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Ovid, Amores</title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <biblStruct corresp="http://zotero.org/users/5925322/items/A9TJBRMY" type="journalArticle" xml:id="Bornecque1927">
+				        	<analytic>
+				        		<title level="a">Collation du manuscrit de Saint-Gall des Amours d'Ovide</title>
+				        		<author>
+				        			<forename>Jacques-Henry</forename>
+				        			<surname>Bornecque</surname>
+				        		</author>
+				        	</analytic>
+				        	<monogr>
+				        		<title level="j">Revue de Philologie,  de Littérature et d’Histoire Anciennes</title>
+				        		<idno type="ISSN">0035-1652</idno>
+				        		<imprint>
+				        			<biblScope unit="page">354-361</biblScope>
+				        			<date>1927</date>
+				        		</imprint>
+				        	</monogr>
+				        </biblStruct>
+			      </sourceDesc>
+			      <sourceDesc>
+				        <link>https://www.e-codices.unifr.ch/xml/tei_published/csg-0864.xml</link>
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="lat">Latin</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="lat, en">
+	  	<body>
+	  		<readings>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.1.5@carmina-1.1.5@iuris">carmine uires</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.1.5@carmina-1.1.5@iuris">carminaiuris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.1.16@lyra-1.1.16@est">sua tuta lyra est</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.1.16@lyra-1.1.16@est">lyraest</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.1.22@Legit">texit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.1.22@Legit">Legit</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.2@neque">nec</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.2@neque">neque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.6@tecta">tacita</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.6@tecta">tecta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.10@Cedamus">cedimus ut</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.10@Cedamus">Cedamus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.18@fatentur">fatetur</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.18@fatentur">fatentur</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.27@capti-1.2.27@iuvenes">iuuenes capti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.27@capti-1.2.27@iuvenes">captiiuvenes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.35@Errorque">Terrorque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.35@Errorque">Errorque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.38@nudus">nurus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.38@nudus">nudus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.41@capillos">lapillos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.2.41@capillos">capillos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.3@volui">petii</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.3@volui">volui</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.8@si">sed</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.8@si">si</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.18@mori">morti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.18@mori">mori</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.21@habent">habet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.21@habent">habent</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.24@vara">falsa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.3.24@vara">vara</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.9@mihi">mea</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.9@mihi">mihi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.12@Notis">nothis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.12@Notis">Notis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.20@leges">teges</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.20@leges">leges</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.35@inpositis">indignis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.35@inpositis">inpositis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.37@habilesve">-que</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.37@habilesve">habilesve</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.49@non-1.4.49@facies">ne facias</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.49@non-1.4.49@facies">nonfacies</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.53@iacebit">nocebit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.53@iacebit">iacebit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.55@abitura">hab-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.55@abitura">abitura</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.68@at">aut</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.4.68@at">at</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.5.15@quae">me</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.5.15@quae">quae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.6.9@At">aut</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.6.9@At">At</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.6.13@umbras">umbre</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.6.13@umbras">umbras</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.6.13@volantis">volantes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.6.13@volantis">volantis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.6.17@uti-1.6.17@videas">ut inuideas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.6.17@uti-1.6.17@videas">utivideas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.79@quasi-1.8.79@laesa">quasille</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.79@quasi-1.8.79@laesa">quasilaesa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.86@in-1.8.86@lusus">illusus (n supra I scripto)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.86@in-1.8.86@lusus">inlusus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.100@nemo">sibi nil</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.100@nemo">nemo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.107@vivae">vives</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.107@vivae">vivae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.108@defunctae">defuncta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.108@defunctae">defunctae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.109@me">te</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.109@me">me</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.109@prodidit">perdidit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.109@prodidit">prodidit</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.113@Di">dii</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.8.113@Di">Di</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.9.41@natus">nudus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.9.41@natus">natus</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.1@avecta">deuecta</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.1@avecta">avecta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.9@resanuit">reusanuit (??)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.9@resanuit">resanuit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.10@facies">faciles L eraso</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.10@facies">facies</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.17@pretio">pretium omissum ( add in marg )</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.17@pretio">pretio</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.17@iubetis">iubebis B eraso</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.17@iubetis">iubetis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.21@cuivis">quoius</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.21@cuivis">cuivis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.22@iusso">iusto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.22@iusso">iusso</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.27@equum">equo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.27@equum">equum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.27@taurum">tauro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.27@taurum">taurum</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.37@Non">nec</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.37@Non">Non</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.38@Non">nec</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.38@Non">Non</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.38@selecti">seiecti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.38@selecti">selecti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.41@tori">thori</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.41@tori">tori</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.44@toro">thoro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.44@toro">toro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.45@Omnia">omnis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.45@Omnia">Omnia</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.49@pepigisse">tetig-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.49@pepigisse">pepigisse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.60@volui">noui</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.60@volui">volui</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.60@fit">sit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.60@fit">fit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.62@quam">que</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.62@quam">quam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.62@perennis">perhennis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.10.62@perennis">perennis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.11.10@simplicitas">supplicitas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.11.10@simplicitas">simplicitas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.11.10@adest">inest</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.11.10@adest">adest</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.11.11@sensisse">sensere</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.11.11@sensisse">sensisse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.11.23@tenendo">retento</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.11.23@tenendo">tenendo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.18@diras">duras</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.18@diras">diras</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.8@notis">nothis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.8@notis">notis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.19@Illa">ipsa ???</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.19@Illa">Illa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.19@raucis">rasis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.19@raucis">raucis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.20@strigis">stigis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.20@strigis">strigis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.21@insanus">infamis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.12.21@insanus">insanus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.5@teneris">tenebris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.5@teneris">teneris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.7@aer">humor</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.7@aer">aer</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.15@oneratos">-tas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.15@oneratos">oneratos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.15@colentes">colentes m 2 ; colonos m 1</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.15@colentes">colentes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.19@vades">eadem</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.19@vades">vades</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.19@stultos">consulti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.19@stultos">stultos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.19@mittis">mitis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.19@mittis">mittis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.20@ferant">ferat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.20@ferant">ferant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.21@iucunda">iocunda-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.21@iucunda">iucunda</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.23@Tu">tunc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.23@Tu">Tu</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.23@labores">lacerti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.23@labores">labores</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.37@mavis">manibus</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.37@mavis">mavis</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.41@quot">quod</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.41@quot">quot</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.42@neque">nec</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.42@neque">neque</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.45@rubebat">iubebat ???</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.45@rubebat">rubebat</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.46@adsueto">assueto</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.13.46@adsueto">adsueto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.3@erat">enim est</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.3@erat">erat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.12@derepto">direpto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.12@derepto">derepto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.17@oculos-1.14.17@saepe">oculos sepe est</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.17@oculos-1.14.17@saepe">oculossaepe</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.18@derepta">dir-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.18@derepta">derepta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.20@toro">thoro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.20@toro">toro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.25@se">si</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.25@se">se</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.26@torto">toto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.26@torto">torto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.27@istos-1.14.27@scelus">scelus istos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.27@istos-1.14.27@scelus">istosscelus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.34@umenti">hum-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.34@umenti">umenti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.45@Nunc">nec</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.45@Nunc">Nunc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.46@Tuta">tuta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.46@Tuta">Tuta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.47@rubebis">rubebas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.47@rubebis">rubebis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.55@damnum">dampnum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.14.55@damnum">damnum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.3@patrum">patrem</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.3@patrum">patrum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.5@ediscere">edissere</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.5@ediscere">ediscere</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.6@vocem">uoces</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.6@vocem">vocem</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.7@perennis">perhennis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.7@perennis">perennis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.11@Ascraeus">Astreus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.11@Ascraeus">Ascraeus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.15@cothurno">coturno</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.15@cothurno">cothurno</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.18@Vivent">uixerit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.18@Vivent">Vivent</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.25@segetes">fruges</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.25@segetes">segetes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.29@Eois">oeis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.29@Eois">Eois</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.39@quiescit">om</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.39@quiescit">quiescit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.40@tuetur">sequetur</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:1.15.40@tuetur">tuetur</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.3@severae">severi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.3@severae">severae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.4@teneris">tenebris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.4@teneris">teneris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.6@tactus">tacto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.6@tactus">tactus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.15@In-2.1.15@nimbos">Juppiter in manibus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.15@In-2.1.15@nimbos">Innimbos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.17@fulmen-2.1.17@omisi">fulmina misi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.17@fulmen-2.1.17@omisi">fulmenomisi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.19@tela">uerba</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.19@tela">tela</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.22@Mollierunt">-rant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.22@Mollierunt">Mollierunt</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.29@cantatus">-tor</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.29@cantatus">cantatus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.30@Quid-2.1.30@Atrides">et quid tytides</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.30@Quid-2.1.30@Atrides">QuidAtrides</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.33@At">at</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.33@At">At</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.33@laudata">laudat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.33@laudata">laudata</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.34@venit">uenis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.1.34@venit">venit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.12@tueare">tenuare</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.12@tueare">tueare</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.14@quod">ut</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.14@quod">quod</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.30@alii">domine</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.30@alii">alii</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.31@Huic">hic</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.31@Huic">Huic</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.33@vultum">mul-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.33@vultum">vultum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.38@Et-2.2.38@veris">in uero</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.38@Et-2.2.38@veris">Etveris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.40@fac-2.2.40@in">facis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.40@fac-2.2.40@in">facin</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.49@merito-2.2.49@nocuit">nocuit merito</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.49@merito-2.2.49@nocuit">meritonocuit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.53@tepet">tepe</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.53@tepet">tepet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.53@aures">auras</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.53@aures">aures</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.58@Damnabitque">dampnabit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.58@Damnabitque">Damnabitque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.59@ipse">illa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.2.59@ipse">ipse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.3@recidit">recedit (e expunct et i suprascr)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.3@recidit">recidit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.4@ipse">ille</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.4@ipse">ipse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.6@quavis">quamuis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.6@quavis">quavis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.9@tu-2.3.9@spes">cuspes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.9@tu-2.3.9@spes">tuspes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.13@apti">digni</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.3.13@apti">apti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.4@fassus">falsus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.4@fassus">fassus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.5@esse">nosse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.5@esse">esse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.7@regendum">ferendmm</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.7@regendum">regendum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.9@certa">forma</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.9@certa">certa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.11@in-2.4.11@humum">nunc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.11@in-2.4.11@humum">inhumum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.10@causae">curae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.10@causae">causae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.14@toro">thoro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.14@toro">toro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.17@raras">rara</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.17@raras">raras</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.18@placita-2.4.18@es">placeas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.18@placita-2.4.18@es">placitaes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.20@placet">placent</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.20@placet">placet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.23@incedit">incessit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.23@incedit">incedit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.33@longa-2.4.33@es">longas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.4.33@longa-2.4.33@es">longaes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.5@deletae">decepte</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.5@deletae">deletae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.5@tabellae">puelle</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.5@tabellae">tabellae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.7@sic-2.5.7@non">non te</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.7@sic-2.5.7@non">sicnon</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.11@suo">suu (o suprascr)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.11@suo">suo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.27@Phoebo">-bum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.27@Phoebo">Phoebo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.27@Dianam">-ne</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.27@Dianam">Dianam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.39@possit">poscit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.39@possit">possit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.41@Hic">his</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.41@Hic">Hic</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.41@alicui">aliquis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.41@alicui">alicui</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.51@optima">oscula</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.5.51@optima">optima</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.3@pinnis">pennis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.3@pinnis">pinnis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.8@annis">animis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.8@annis">annis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.9@devertere">-tite</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.9@devertere">devertere</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.13@vita">-te (a suprascr)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.13@vita">vita</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.15@Orestae">Horesti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.15@Orestae">Orestae</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.20@fiant">fient</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.20@fiant">fiant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.30@poteras">—rant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.30@poteras">poteras</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.33@ducens">ducit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.33@ducens">ducens</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.34@et">et est</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.34@et">et</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.34@auctor">auctae NB WRONG</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.34@auctor">auctor</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.37@illa">ille</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.37@illa">illa</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.43@?">timidae m 2 tum- m 1</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.43@?">?</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.55@ales">om</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.55@ales">ales</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.55@pinnas">pennas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.6.55@pinnas">pinnas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.8@culpo">si cui do</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.8@culpo">culpo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.10@malus">malis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.10@malus">malus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.19@si">sic</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.19@si">si</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.20@sortis">-dis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.20@sortis">sortis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.20@iuvet">iubet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.20@iuvet">iuvet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.23@ornandis">ornatis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.23@ornandis">ornandis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.25@quae">que erat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.7.25@quae">quae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.8.12@Serva">seruaque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.8.12@Serva">Serva</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.8.19@puri">nostri</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.8.19@puri">puri</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.21@Longaque">longa</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.21@Longaque">Longaque</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.27@relanguit">reuanuit</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.27@relanguit">relanguit</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.36@huc">hic</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.36@huc">huc</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.37@Huc">hic</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.37@Huc">Huc</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.45@Et">hec</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.9.45@Et">Et</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.15@??">amore m 2 amare m 1</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.15@??">??</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.17@uiduo">uacuo</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.17@uiduo">uiduo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.18@laxe">laxo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.18@laxe">laxe</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.23@Sufficiam">-ant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.23@Sufficiam">Sufficiam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.29@perdunt">rumpunt</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.29@perdunt">perdunt</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.30@Di">dii</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.30@Di">Di</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.30@faciant">-unt (a suprascr)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.30@faciant">faciant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.33@et-2.10.33@arando">qua?que lassarat eundo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.10.33@et-2.10.33@arando">etarando</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.9@timebo">timere</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.9@timebo">timebo</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.13@pictos">uirides</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.13@pictos">pictos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.15@signate">-ta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.15@signate">signate</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.25@sollicitus">-tos ( u suprascr)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.25@sollicitus">sollicitus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.25@cum">iam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.25@cum">cum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.27@exasperet">-rat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.27@exasperet">exasperet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.40@Huc-2.11.40@spirent">Hec (u suprascr) uentus spectet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.40@Huc-2.11.40@spirent">Hucspirent</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.41@pleni">soli</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.41@pleni">pleni</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.48@cumulus">cui nulus</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.48@cumulus">cumulus</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.48@cumulus">tumulus</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.48@cumulus">cumulus</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.48@esse-2.11.48@potest">esse potest</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.48@esse-2.11.48@potest">essepotest</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.48@esse-2.11.48@potest">instar erit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.48@esse-2.11.48@potest">essepotest</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.49@narrabis">-bas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.11.49@narrabis">narrabis</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.12.1@laurus">lauri</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.12.1@laurus">laurus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.12.3@firma-2.12.3@tot">firmat ut</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.12.3@firma-2.12.3@tot">firmatot</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.12.17@causa">cura</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.12.17@causa">causa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.12.27@me">nunc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.12.27@me">me</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.3@clam-2.13.3@me">clamat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.3@clam-2.13.3@me">clamme</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.4@sed">si</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.4@sed">sed</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.7@genialiaque">gentilia que (?)</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.7@genialiaque">genialiaque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.17@sedit">meruit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.17@sedit">sedit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.18@cingit">tan-</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.18@cingit">cingit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.18@cingit">tingit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.18@cingit">cingit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.24@tuos-2.13.24@pedes">pedes innumera uota tuos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.13.24@tuos-2.13.24@pedes">tuospedes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.10@fuit">foret</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.10@fuit">fuit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.21@ego">om</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.21@ego">ego</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.24@crudeli">-lis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.24@crudeli">crudeli</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.29@Colchida">Cholchica</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.29@Colchida">Colchida</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.29@culpant">matrem</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.29@culpant">culpant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.33@Dicite">discite</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.14.33@Dicite">Dicite</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.1@uincture">uincire</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.1@uincture">uincture</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.2@nil">nil nil</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.2@nil">nil</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.2@amor">amo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.2@amor">amor</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.10@Carpathiive">-que</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.10@Carpathiive">Carpathiive</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.19@Sit-2.15.19@labor">si dabor —</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.19@Sit-2.15.19@labor">Sitlabor</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.24@Damnaque">add ou expunctus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.24@Damnaque">Damnaque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.24@fer-2.15.24@pereuntis">perfer euntis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.24@fer-2.15.24@pereuntis">ferpereuntis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.25@libidine-2.15.25@surgent">libidinis urguent</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.25@libidine-2.15.25@surgent">libidinesurgent</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.27@voveo">foueo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.15.27@voveo">voveo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.3@admoto">et moto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.3@admoto">admoto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.3@findat">scindat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.3@findat">findat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.5@liquentibus">lucentibus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.5@liquentibus">liquentibus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.6@tenero">tenoro ( e suprascr)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.6@tenero">tenero</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.7@Cereris">ciceris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.7@Cereris">Cereris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.8@baciferam">pacif-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.8@baciferam">baciferam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.9@labentibus">add undis expunct</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.9@labentibus">labentibus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.13@si-2.16.13@medius">semideus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.13@si-2.16.13@medius">simedius</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.15@iaceant">add he expunct</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.15@iaceant">iaceant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.19@horridus-2.16.19@Alpes">turbine ponti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.19@horridus-2.16.19@Alpes">horridusAlpes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.21@perrumpere">percurrere</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.21@perrumpere">perrumpere</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.23@Non-2.16.23@quae">nec qua</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.23@Non-2.16.23@quae">Nonquae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.24@timeam">-at –</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.24@timeam">timeam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.25@Non">nec</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.25@Non">Non</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.26@receptat">reportat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.26@receptat">receptat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.32@Tum">Nunc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.32@Tum">Tum</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.35@undam">undas</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.35@undam">undam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.39@feros">ferox</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.39@feros">feros</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.41@vitem">uites</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.41@vitem">vitem</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.46@Inrita-2.16.46@qua">Irritaque ut</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.46@Inrita-2.16.46@qua">Inritaqua</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.51@qua">cum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.16.51@qua">qua</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.3@urat">urit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.3@urat">urat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.4@fluctu">fluctus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.4@fluctu">fluctu</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.7@facie">facies</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.7@facie">facie</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.10@nisi">mihi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.10@nisi">nisi</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.11@animum">nimium</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.11@animum">animum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.19@Vulcano">-ni</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.19@Vulcano">Vulcano</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.22@herous">heroius</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.22@herous">herous</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.24@foro">m (o suprascripto)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.24@foro">foro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.28@volunt">rogant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.28@volunt">volunt</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.29@circumferat-2.17.29@Corinnam">Corinnam fecerat se oi (expunctus) esse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.29@circumferat-2.17.29@Corinnam">circumferatCorinnam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.32@populiferque-2.17.32@Padus">Padus populifer</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.17.32@populiferque-2.17.32@Padus">populiferquePadus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.1@Achillen">-les</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.1@Achillen">Achillen</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.5@tandem-2.18.5@dixi">dixi tandem</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.5@tandem-2.18.5@dixi">tandemdixi</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.13@curaque">usu</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.13@curaque">curaque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.13@nostra">nostro</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.13@nostra">nostra</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.21@verbis-2.18.21@reddatur">uerboso reddat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.21@verbis-2.18.21@reddatur">verbisreddatur</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.25@strictum-2.18.25@Dido">Dido strictum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.25@strictum-2.18.25@Dido">strictumDido</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.26@Dicat">dictat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.26@Dicat">Dicat</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.26@amata">amate</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.26@amata">amata</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.26@amata">amica</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.26@amata">amata</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.27@meus">celer</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.27@meus">meus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.29@Ulixis">-es</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.29@Ulixis">Ulixis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.31@Iam">si</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.31@Iam">Iam</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.32@vixit">uiuat</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.32@vixit">vixit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.34@votam">uoto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.34@votam">votam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.34@lyram">lire</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.34@lyram">lyram</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.36@tacetur">tendetur</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.18.36@tacetur">tacetur</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.2@ipse">esse</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.2@ipse">ipse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.3@non">ni</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.3@non">non</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.7@curet">possit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.7@curet">curet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.8@laedat">lesit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.8@laedat">laedat</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.10@?">possem et in marg et supra callida scriptus</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.10@?">?</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.14@Insonti">-tis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.14@Insonti">Insonti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.15@ignis">ignes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.15@ignis">ignis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.23@longosque">longos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.23@longosque">longosque</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.29@Ion">Io</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.29@Ion">Ion</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.32@Quas">Quo</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.32@Quas">Quas</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.32@Daque">detque</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.32@Daque">Daque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.47@praemoneo">-monebo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.47@praemoneo">praemoneo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.51@pateris">pot- ( a suprascr)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.51@pateris">pateris</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.54@Nox">nec</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.54@Nox">Nox</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.55@Nil">nec</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.55@Nil">Nil</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.55@nulla">mille</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.55@nulla">nulla</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.52@concessa">-ssi</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.52@concessa">concessa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.59@iuvat">iubet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.59@iuvat">iuvat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.59@quaeris">queres</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.59@quaeris">quaeris</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.60@rivalem">-le</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.60@rivalem">rivalem</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.60@iuvat">iuuet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:2.19.60@iuvat">iuvat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.10@Et">In</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.10@Et">Et</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.14@erat">eram</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.14@erat">erat</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.15@ecquis">hec quis</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.15@ecquis">ecquis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.27@cantent">-tant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.27@cantent">cantent</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.28@iuuenta">-enca</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.28@iuuenta">iuuenta</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.30@Implebit">-euit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.30@Implebit">Implebit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.37@es">est</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.37@es">es</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.37@moueri">-re</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.37@moueri">moueri</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.33@pependi">-dit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.33@pependi">pependi</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.36@missam">missum</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.36@missam">missam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.57@at-3.1.57@illa">ad illam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.57@at-3.1.57@illa">atilla</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.58@mersit">mersat</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.58@mersit">mersit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.60@habes">habet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.60@habes">habes</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.60@quos">que</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.60@quos">quos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.60@petit">petet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.60@petit">petit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.64@?-3.1.64@?">magnus m 2 magnos m 1</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.1.64@?-3.1.64@?">?</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.2@ipsa">ipse</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.2@ipsa">ipsa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.7@faves">fauet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.7@faves">faves</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.13@suspecta">cons-</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.13@suspecta">suspecta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.14@fluent">ruent</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.14@fluent">fluent</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.15@At">ad</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.15@At">At</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.21@dextra">latere</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.21@dextra">dextra</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.22@ista">illa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.22@ista">ista</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.29@Milanion">Menalion</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.29@Milanion">Milanion</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.29@Atalantes">-tis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.29@Atalantes">Atalantes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.33@ipsis">istis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.33@ipsis">ipsis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.38@faciet">facies</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.38@faciet">faciet</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.38@levi">nigro</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.38@levi">levi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.62@dominam-3.2.62@nobis">nobis dominam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.62@dominam-3.2.62@nobis">dominamnobis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.64@Cancellis">calc-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.64@Cancellis">Cancellis</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.60@Quadriiugos-3.2.60@aequo">quadiruos cum</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.60@Quadriiugos-3.2.60@aequo">Quadriiugosaequo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.74@Et-3.2.74@date">Perdite —</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.74@Et-3.2.74@date">Etdate</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.75@at">et</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.75@at">at</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.76@abdas">addas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.76@abdas">abdas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.80@fac">sat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.80@fac">fac</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.84@Hoc-3.2.84@alio">hoc satis hic alia</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.2.84@Hoc-3.2.84@alio">Hocalio</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.4@numina">num expunct nomina</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.4@numina">numina</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.6@ore">orbe</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.6@ore">ore</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.11@aeterno">o eras</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.11@aeterno">aeterno</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.12@Di">dii</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.12@Di">Di</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.15@Dicite-3.3.15@di">discite</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.15@Dicite-3.3.15@di">Dicitedi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.36@tela">telaque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.36@tela">tela</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.40@opus">onus –</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.40@opus">opus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.42@Di">dii</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.42@Di">Di</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.43@iurare">iurasse</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.43@iurare">iurare</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.46@tetricis">triuiis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.3.46@tetricis">tetricis</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.1@tenerae-3.4.1@custode">custode tenerae</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.1@tenerae-3.4.1@custode">teneraecustode</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.2@ingenio-3.4.2@est">ingenio</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.2@ingenio-3.4.2@est">ingenioest</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.2@suo">suo est —</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.2@suo">suo</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.6@illa">ulla</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.6@illa">illa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.8@exclusis">occlusis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.8@exclusis">exclusis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.11@inritare">inuitare</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.11@inritare">inritare</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.12@illa">ipsa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.12@illa">illa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.14@fulminis">fluminis -</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.14@fulminis">fulminis</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.20@fit">sit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.20@fit">fit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.29@adultera">ut altera</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.29@adultera">adultera</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.24@tot-3.4.24@iuvenes">tam multos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.24@tot-3.4.24@iuvenes">totiuvenes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.41@formosam">sa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.41@formosam">formosam</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.39@Martigenae">-gine</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.39@Martigenae">Martigenae</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.5@Terruerunt">-rant</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.5@Terruerunt">Terruerunt</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.7@aestum">aestus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.7@aestum">aestum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.17@Dum">dumque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.17@Dum">Dum</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.16@ferendi">ferenti</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.16@ferendi">ferendi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.25@relinquit">reliquit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.25@relinquit">relinquit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.40@mouebat">bit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.40@mouebat">mouebat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.44@negant">negat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.5.44@negant">negant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.9@parca">pauca</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.9@parca">parca</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.12@pedi">die</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.12@pedi">pedi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.18@haec">hoc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.18@haec">haec</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.23@deberent">debebant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.23@deberent">deberent</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.27@obsessa">oppressa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.27@obsessa">obsessa</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.31@Xutho-3.6.31@Penee">Xanto obsecrante</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.31@Xutho-3.6.31@Penee">XuthoPenee</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.32@Phthiotum">Pithiadum</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.32@Phthiotum">Phthiotum</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.41@Inopide">in Esopide</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.41@Inopide">Inopide</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.46@Argei">argiua (altero a alio atramento)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.46@Argei">Argei</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.46@pomifera">-fer</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.46@pomifera">pomifera</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.47@Ilia">ulla m 1 ; illa m 2</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.47@Ilia">Ilia</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.49@delictaque">dilectaque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.49@delictaque">delictaque</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.51@Anien">amnis alio atramento infra scripto</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.51@Anien">Anien</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.51@ab">in</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.51@ab">ab</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.54@ab">ab ab</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.54@ab">ab</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.56@Vitta">uincta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.56@Vitta">Vitta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.61@pone">pon e</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.61@pone">pone</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.62@amnes">omnes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.62@amnes">amnes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.65@Troiana">Romana</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.65@Troiana">Troiana</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.68@teneros">tepido</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.68@teneros">teneros</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.70@Currendi">currenti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.70@Currendi">Currendi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.71@crinem">crines</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.71@crinem">crinem</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.73@lecta">tecta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.73@lecta">lecta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.74@cum">dum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.74@cum">cum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.75@Vestalis">-les</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.75@Vestalis">Vestalis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.75@ullas">ultas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.75@ullas">ullas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.76@infitianda">inficienda</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.76@infitianda">infitianda</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.78@Desint">desit</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.78@Desint">Desint</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.78@notet">natet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.78@notet">notet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.80@rapidas">rabidas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.80@rapidas">rapidas</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.85@increscis">increuit</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.85@increscis">increscis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.85@spatiosior">spatiosus in</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.85@spatiosior">spatiosior</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.93@solutas">-tos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.93@solutas">solutas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.97@haurire">hausisse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.97@haurire">haurire</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.101@uae">uel</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.6.101@uae">uae</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.6@effeti">effecti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.6@effeti">effeti</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.19@A">at</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.19@A">A</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.20@amica">amata</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.20@amica">amica</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.23@Chlide">chie</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.23@Chlide">Chlide</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.23@Pitho">Phito</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.23@Pitho">Pitho</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.29@poenicea">sanguinea</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.29@poenicea">poenicea</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.29@nomina">-ne</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.29@nomina">nomina</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.30@tenuis">tenues</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.30@tenuis">tenuis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.36@inde">ista</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.36@inde">inde</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.37@ipse">iste</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.37@ipse">ipse</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.43@contigerat">-rant</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.43@contigerat">contigerat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.45@quo">quis sum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.45@quo">quo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.49@Quo">quod</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.49@Quo">Quo</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.50@possedi">possideat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.50@possedi">possedi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.55@blande">da</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.55@blande">blande</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.59@vivos">diuos</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.59@vivos">vivos</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.60@neque-3.7.60@tum">nec tunc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.60@neque-3.7.60@tum">nequetum</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.61@iuvet">iuuat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.61@iuvet">iuvet</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.61@Phemius">Phimeius</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.61@Phemius">Phemius</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.63@non">ego nunc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.63@non">non</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.63@Gi -3.7.63@finxi">posui</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.63@Gi -3.7.63@finxi">Gi finxi</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.69@istic">istinc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.69@istic">istic</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79@traiectis">tral-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79@traiectis">traiectis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79@Aeaea">racea</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79@Aeaea">Aeaea</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79@uenefica">-cia</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79@uenefica">uenefica</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79@lanis">ramis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.7.79@lanis">lanis</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.2@Aut">haut</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.2@Aut">Aut</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.11@vita">fulta</rdg>
+<rdg change="" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.11@vita">vita</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.12@amplexu">complexus</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.12@amplexu">amplexu</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.12@vita">fulta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.12@vita">vita</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.10@tui">tui est —</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.10@tui">tui</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.22@fassas">falsas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.22@fassas">fassas</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.24@inane">auara inc (inc expuncto)</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.24@inane">inane</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.25@inertes">inhertes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.25@inertes">inertes</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.38@admorat">admoirata ut vid</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.38@admorat">admorat</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.40@reperta">recepta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.40@reperta">reperta</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.43@demisso">dim-</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.43@demisso">demisso</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.50@petis">facis</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.50@petis">petis</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.59@auidc">-di</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.59@auidc">auidc</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.59@liceantur">uacientur ut vid</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.59@liceantur">liceantur</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.65@quisquam">quisquam est</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.8.65@quisquam">quisquam</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.9.3@Elegeia">elegegia</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.9.3@Elegeia">Elegeia</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.9.4@ex">ea</rdg>
+<rdg change="noneed" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.9.4@ex">ex</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.10@causae">curae</rdg>
+<rdg change="todo (bad cts reference)" ref="urn:cts:latinLit:phi0959.phi001.perseus-lat2:3.4.10@causae">causae</rdg>
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>

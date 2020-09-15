@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Homer's Odyssey</title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+	
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		<readings>
+		  		<rdg n='00328' change='' ref='urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος'>μόρον</rdg>
+				<rdg n='00329' change='' ref='urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος'>τέλος</rdg>	
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>

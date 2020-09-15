@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	 <teiHeader>
+		   <fileDesc>
+			     <titleStmt>
+				       <title>Readings from some manuscripts of the tradition of Euripides' Andromache</title>
+				       <author>Camilla Rossini</author>
+				       
+			     </titleStmt>
+			     <publicationStmt>
+				       
+			       <date cert="" type="release">2020</date>
+			     </publicationStmt>
+			     <sourceDesc>
+				       <biblStruct type="book" xml:id="Garzya1978" corresp="http://zotero.org/users/5925322/items/57QKN7LF"><monogr><title level="m">Euripides. Andromacha</title><author><forename>Antonio</forename><surname>Garzya</surname></author><imprint><pubPlace>Leipzig</pubPlace><publisher>Teubner</publisher><date>1978</date></imprint></monogr></biblStruct>
+			     </sourceDesc>
+		   </fileDesc>
+		   <encodingDesc>
+        <refsDecl n="CTS">
+         	
+       </refsDecl>
+			     
+		   </encodingDesc>
+		   <profileDesc>
+			     <langUsage>
+				       <language ident="grc">Greek</language>
+				       <language ident="en">English</language>
+			     </langUsage>
+		   </profileDesc>
+		   <revisionDesc>
+           <change when="" who="" />	
+
+		   </revisionDesc>
+	 </teiHeader>
+	 <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00264' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:360@ἀπαιδίαν'>ἀπαιδίαν</rdg>
+<rdg n='00265' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:360@ἀπαιδίαν'>ἀβουλίαν</rdg>
+<rdg n='00266' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας'>χέρας</rdg>
+<rdg n='00267' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας'>δέμας</rdg>
+<rdg n='00268' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας'>χείρας</rdg>
+
+	  			<rdg change="todo: maybe δοθεῖσα" n="00083" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:15@hyp.θάψαι">μένειν</rdg>
+<rdg change="noneed2" n="00084" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:167@χερὶ-167@σπείρουσαν">περισπείρουσαν </rdg>
+
+<rdg n='00037' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:181@τι'>τοι </rdg>
+<rdg n='00038' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:181@τι'>τι</rdg>
+
+<rdg change="noneed1" n="00086" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:217@κοινούμενος">κοιμώμενος </rdg>
+<rdg change="noneed1" n="00087" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:306@ἀλάληντο">ὀλώληντο </rdg>
+<rdg change="noneed1" n="00088" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:344@σὺ">σοι</rdg>
+<rdg change="noneed1" n="00089" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:360@ἀπαιδίαν">ἀβουλίαν </rdg>
+<rdg n='00152' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει'>ψέγει </rdg>
+<rdg n='00153' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει'>λέγει</rdg>
+<rdg change="noneed1" n="00091" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας">δέμας</rdg>
+<rdg change="noneed1" n="00092" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:462@πράσσω">πάσχω </rdg>
+<rdg change="noneed1" n="00093" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:527@μέλος">τέλος </rdg>
+<rdg change="noneed1" n="00094" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:532@λείβομαι">τήκομαι </rdg>
+<rdg change="maybe 667@," n="00095" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:667@ἐπωφελεῖν">ἔμ'ὀφελεῖν </rdg>
+<rdg n='00005' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:661@κτανεῖν'>θανεῖν</rdg>
+<rdg n='00006' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:661@κτανεῖν'>κτανεῖν</rdg>
+<rdg change="noneed1" n="00097" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:661@θέλων">θέλω</rdg>
+
+<rdg n='00022' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:686@κτανεῖν'>θανεῖν</rdg>
+<rdg n='00023' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:686@κτανεῖν'>κτανεῖν</rdg>
+<rdg n='00007' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:806@κτανεῖν'>θανεῖν</rdg>
+<rdg n='00008' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:806@κτανεῖν'>κτανεῖν</rdg>
+<rdg n='00024' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:824@κτανεῖν'>θανεῖν</rdg>
+<rdg n='00025' change='' ref='urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:824@κτανεῖν'>κτανεῖν</rdg>
+
+<rdg change="noneed1" n="00101" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:836@φόνον">μόρον</rdg>
+<rdg change="noneed1" n="00102" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:862@κυανόπτερος">κυνόπτερος</rdg>
+<rdg change="noneed1" n="00103" ref="urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:1208@θανεῖν[2]">om.</rdg>
+			</readings>
+	  	</body>
+	 </text>
+	</TEI>

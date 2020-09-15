@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title></title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+		    <listWit>
+		    	<witness xml:id="N"> Berlin, Staatsbibliothek, Ham. 676 </witness>
+				<witness xml:id="W"> Bratislava (Wrocław), Universitatsbibliothek, Rhedig. 60 </witness>
+				<witness xml:id="M"> Cesena, Biblioteca Malatestiana S. XXIX. 19 Firenze, Accademia dei Lincei, Cors. 43. F. 21, </witness>
+				<witness xml:id="A"> Firenze, Biblioteca Medicea Laurenziana 33.31 </witness>
+				<witness xml:id="C"> Firenze, Biblioteca Medicea Laurenziana 33.22 Firenze, Biblioteca Medicea Laurenziana 39.34 </witness>
+				<witness xml:id="O"> Firenze, Biblioteca Nazionale, Magliabb. VII 1120 </witness>
+				<witness xml:id="G"> Göttingen, Georg-August-Universität, Philol. 116 </witness>
+				<witness xml:id="V"> Leiden, Universiteitsbibliotheek,Voss.latO.81 London, British Library, add. 12004 London, British Library, add. 16562 </witness>
+				<witness xml:id="E"> London, British Library, add. 22013 London, British Library, Arundel 13335 London, British Library, Egerton 3027 </witness>
+				<witness xml:id="L"> London, British Library, Harl. 2701 </witness>
+				<witness xml:id="K"> London, British Library, Harl. 2578 </witness>
+				<witness xml:id="B"> Milano, Biblioteca Ambrosiana D.167 inf. </witness>
+				<witness xml:id="Ι"> Napoli, Biblioteca Nazionale IV. E. 49 Napoli, Biblioteca Nazionale V. F. 64 </witness>
+				<witness xml:id="R"> New York, The Morgan Library, P. 232 </witness>
+				<witness xml:id="F"> Oxford, Bodleian Library, Class.d.5 Paris. Bibliothèque Nationale de France, lat.8205 </witness>
+				<witness xml:id="Y"> Paris, Bibliothèque Nationale de France, lat.8206 Paris, Bibliothèque Nationale de France, lat8232 </witness>
+				<witness xml:id="Z"> Paris, Bibliothèque Nationale de France, lat.8236 </witness>
+				<witness xml:id="P"> Perugia, Biblioteca Augusta, 740 (I 1134)</witness>
+				<witness xml:id="X"> Città del Vaticano, Biblioteca Apostolica Vaticana, Chigi H.V.64 s. XV Città del Vaticano, Biblioteca Apostolica Vaticana, Ottob. Lat.1374 s. XV Città del Vaticano, Biblioteca Apostolica Vaticana, Ottob. Lat.1471 s. XV </witness>
+				<witness xml:id="f"> Città del Vaticano, Biblioteca Apostolica Vaticana, Ottob. Lat. 2029 s. XV Città del Vaticano, Biblioteca Apostolica Vaticana, Pal. Lat. 1055 s. XV</witness>
+			</listWit>
+			<listBibl>
+	
+			</listBibl>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		<wit witName="">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.15@oscitari:rdgs:citari" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:14.1@in-14.1@dei:rdgs:iudei" />
+			</wit>
+			<wit witName="A">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.2@minare:rdgs:rumere" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pietas" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hec creavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:16.7@puer:rdgs:pius" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:fucosissima" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:57.2@putida:rdgs:pudica" />
+			</wit>
+			<wit witName=" T">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:55.2@digitis:rdgs:manibus" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" />
+			</wit>
+			<wit witName="K">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.3@frustra:rdgs:fratri" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:20.5@tenta:rdgs:tanta" />
+			</wit>
+			<wit witName="H">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus:rdgs:mentulatus" />
+				</wit>
+				<wit witName=" E">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:16.7@puer:rdgs:pius" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.31@arrectos:rdgs:e(r)rectos" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" />
+				</wit>
+				<wit witName="V">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" hand="1" />
+				</wit>
+				<wit witName="A">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" hand="1" />
+				</wit>
+				<wit witName="B">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:ingenuum" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure:rdgs:obscene" hand="1" />
+				</wit>
+				<wit witName="W">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus:rdgs:expectis" />
+				</wit>
+				<wit witName="cett">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.3@inguen:rdgs:ignem" />
+				</wit>
+				<wit witName=" P">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:36.4@paeto:rdgs:pecto" hand="2" />
+				</wit>
+				<wit witName="X">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:ingenuum" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure:rdgs:obscene" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" hand="1" />
+				</wit>
+				<wit witName="Y">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:ingenuum" hand="2" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure:rdgs:obscene" hand="2" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@rudis:rdgs:nudis" hand="2" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.10@famelicorum:rdgs:maleficorum" hand="2" />
+				</wit>
+				<wit witName="L">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:45.4@heus:rdgs:deus" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.5@fruenda:rdgs:futuenda" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.31@arrectos:rdgs:e(r)rectos" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.1@pomari:rdgs:pomerij" />
+				</wit>
+				<wit witName="P">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:ingenuum" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure:rdgs:obscene" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				</wit>
+				<wit witName=" L">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" />
+				</wit>
+				<wit witName="B">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:55.2@digitis:rdgs:manibus" />
+				</wit>
+				<wit witName="Mf">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				</wit>
+				<wit witName="V">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:ingenuum" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure:rdgs:obscene" />
+				</wit>
+				<wit witName="O">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:36.4@paeto:rdgs:pectore" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@usibus:rdgs:versibus" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:66.3@nisi:rdgs:mensi" />
+				</wit>
+				<wit witName="B">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:senior" hand="3" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa:rdgs:pruriginosa" hand="3" />
+				</wit>
+				<wit witName="I">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:senior" hand="2" />
+				</wit>
+				<wit witName="R">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.1@velle:rdgs:pelle" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.2@mihi:rdgs:viro" />
+				</wit>
+				<wit witName="X">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:inguineum" hand="2" />
+				</wit>
+				<wit witName=" H">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:inguen" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pietas" />
+				</wit>
+				<wit witName="f">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screvit" />
+				</wit>
+				<wit witName="F">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non iunior" hand="2" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:morbosissima" hand="2" />
+				</wit>
+				<wit witName="f(s. ras.)">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:ingenuum" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure:rdgs:obscene" />
+				</wit>
+				<wit witName="E">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:minor" hand="1" />
+				</wit>
+				<wit witName=" P">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" />
+				</wit>
+				<wit witName=" M">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non minor" hand="2" />
+				</wit>
+				<wit witName="Z">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@usibus:rdgs:lusibus" />
+				</wit>
+				<wit witName=" Y">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" hand="1" />
+				</wit>
+				<wit witName=" M">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:fucosissima" />
+				</wit>
+				<wit witName=" X">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:55.2@digitis:rdgs:manibus" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa:rdgs:pruinosa" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" />
+				</wit>
+				<wit witName="T">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:ingenuum" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure:rdgs:obscene" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:40.2@puto:rdgs:puta" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:ioccosissima" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus:rdgs:miciatus" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa:rdgs:pruinosa" />
+				</wit>
+				<wit witName=" X">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:fucosissima" hand="2" />
+				</wit>
+				<wit witName=" I">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.2@minare:rdgs:rumere" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hec creavit" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:16.7@puer:rdgs:pius" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:fucosissima" hand="1" />
+				</wit>
+				<wit witName="C">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				</wit>
+				<wit witName=" N">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:fucosissima" />
+				</wit>
+				<wit witName="I">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:17.3@redibit:rdgs:ridebit" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:20.5@tenta:rdgs:tecta" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:27.6@exemplum:rdgs:templum" hand="1" />
+				</wit>
+				<wit witName=" B">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa:rdgs:pruinosa" hand="1" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" hand="1" />
+				</wit>
+				<wit witName=" X">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:ioccosissima" hand="1" />
+				</wit>
+				<wit witName=" M">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" hand="1" />
+				</wit>
+				<wit witName=" B">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:ioccosissima" />
+				</wit>
+				<wit witName="F">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:inguen" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:74.1@medios:rdgs:mecos" />
+				</wit>
+				<wit witName="O">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:vergeneum" hand="2" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:25.7@capulumque:rdgs:pabulumque" hand="2" />
+				</wit>
+				<wit witName="Y">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:36.4@paeto:rdgs:pecto" />
+				</wit>
+				<wit witName="E">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non minor" hand="2" />
+				</wit>
+				<wit witName=" W">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.31@arrectos:rdgs:e(r)rectos" />
+				</wit>
+				<wit witName="Fj">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:37.2@procreamur:rdgs:precamur" />
+				</wit>
+				<wit witName="Y">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:74.1@medios:rdgs:moechos" hand="1" />
+				</wit>
+				<wit witName="N">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				</wit>
+				<wit witName=" f">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:fucosissima" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" />
+				</wit>
+				<wit witName=" Y">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hec creavit" hand="2" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:morbosissima" hand="2" />
+				</wit>
+				<wit witName="cett.">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:ficosissima" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:57.2@putida:rdgs:putrida" />
+				</wit>
+				<wit witName="I">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:escreavit" hand="2" />
+				</wit>
+				<wit witName="Birt">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:canior" />
+				</wit>
+				<wit witName="M">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:42.1@laetus:rdgs:lectus" hand="1" />
+				</wit>
+				<wit witName="E">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				</wit>
+				<wit witName="Q">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:24.3@poenam:rdgs:penem" />
+				</wit>
+				<wit witName="G">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:40.2@suo:rdgs:dea" />
+				</wit>
+				<wit witName=" V">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa:rdgs:pruinosa" />
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido" />
+				</wit>
+				<wit witName="v">
+				<rdg ref="urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.2@per caniculam:rdgs:cunicula" />
+	  	</body>
+	  </text>
+	</TEI>
+<!--
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.2@minare:rdgs:rumere' : ['Laur. 33, 31'],
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:1.5@aequo:rdgs:equo' : ['A1', ' L', 'T', 'B', 'O', 'R', 'P', 'V1', 'W', 'Mf', 'K'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:vergeneum' : ['O2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:ingenuum' : ['Y2', 'T', 'B1', 'P', 'V', 'X1', 'f(s. ras.)'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:inguineum' : ['X2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:inguen' : ['F', ' H'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.1@obscure:rdgs:obscene' : ['Y2', 'T', 'B1', 'P', 'V', 'X1', 'f(s. ras.)'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:3.3@frustra:rdgs:fratri' : ['K'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pietas' : ['A', ' H'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:senior' : ['B3', ' I2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non iunior' : ['F2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:minor' : ['E1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non minor' : ['E2', ' M2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:canior' : ['Birt'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hec creavit' : ['A', ' Y2', ' I1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:escreavit' : ['I2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screavit' : ['C', 'F', 'L', 'T', 'B', 'O', 'P', 'H', 'N', 'E', 'G', 'X1', 'W', 'K'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.9@excreauit:rdgs:hic screvit' : ['f'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.15@oscitari:rdgs:citari' : [''], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:14.1@in-14.1@dei:rdgs:iudei' : [''], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:16.7@puer:rdgs:pius' : ['A', ' E', ' I1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:17.3@redibit:rdgs:ridebit' : ['I1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:20.5@tenta:rdgs:tanta' : ['K'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:20.5@tenta:rdgs:tecta' : ['I1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:24.3@poenam:rdgs:penem' : ['Q'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:25.7@capulumque:rdgs:pabulumque' : ['O2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:27.6@exemplum:rdgs:templum' : ['I1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:36.4@paeto:rdgs:pecto' : ['Y', ' P2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:36.4@paeto:rdgs:pectore' : ['O'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:37.2@procreamur:rdgs:precamur' : ['Fj'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:40.2@puto:rdgs:puta' : ['T'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:40.2@suo:rdgs:dea' : ['G'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:42.1@laetus:rdgs:lectus' : ['M1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.1@velle:rdgs:pelle' : ['R'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.2@mihi:rdgs:viro' : ['R'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@usibus:rdgs:versibus' : ['O'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@usibus:rdgs:lusibus' : ['Z'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:43.4@rudis:rdgs:nudis' : ['Y2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:45.4@heus:rdgs:deus' : ['L'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:46@rivedi:rdgs:?' : [''], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:fucosissima' : ['A', ' X2', ' N', ' I1', ' f', ' M'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:ioccosissima' : ['T', ' B', ' X1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:morbosissima' : ['F2', ' Y2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.2@focosissima:rdgs:ficosissima' : ['cett.'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:50.5@fruenda:rdgs:futuenda' : ['L'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:51@rivedi:rdgs:?' : [''], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus:rdgs:miciatus' : ['T'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus:rdgs:mentulatus' : ['H'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:52.10@mutuniatus:rdgs:expectis' : ['W'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:55.2@digitis:rdgs:manibus' : ['B', ' T', ' X'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:57.2@putida:rdgs:pudica' : ['A'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:57.2@putida:rdgs:putrida' : ['cett.'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.2@per caniculam:rdgs:cunicula' : ['v'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa:rdgs:pruinosa' : ['T', ' B1', ' X', ' V'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:63.18@pruriosa:rdgs:pruriginosa' : ['B3'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:66.3@nisi:rdgs:mensi' : ['O'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:67.2@cadmi:rdgs:di tutto' : [''], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:68.31@arrectos:rdgs:e(r)rectos' : ['L', ' E', ' W'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.2@libum:rdgs:libido' : ['F', ' Y1', ' L', ' T', ' B1', ' P', ' V', ' X', ' E', ' M1', ' f'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.3@inguen:rdgs:?' : ['ignem cett'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:70.10@famelicorum:rdgs:maleficorum' : ['Y2'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.1@pomari:rdgs:pomerij' : ['L'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:72.2@minare:rdgs:rumere' : ['A', ' I1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:74.1@medios:rdgs:moechos' : ['Y1'], 
+'urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:74.1@medios:rdgs:mecos' : ['F']
+-->
+

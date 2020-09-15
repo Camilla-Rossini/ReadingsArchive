@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xml="http://www.w3.org/XML/1998/namespace"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:RdgT="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+</rdf:Description>
+<!--  -->
+<!--  -->
+<!-- ################################################################# -->
+<!-- # -->
+<!-- #    Annotation properties -->
+<!-- # -->
+<!-- ################################################################# -->
+<!--  -->
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasConservativeSpaceStructure -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasConservativeSpaceStructure">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+	<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasLemma -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasLemma">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+	<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+	<rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasPhonematicPlausibility -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasPhonematicPlausibility">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+	<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+	<rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariantNature -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariantNature">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+	<rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rdg"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#isAcceptable -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#isAcceptable">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+	<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+	<rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#isLexicalUnity -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#isLexicalUnity">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+	<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+	<rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#posTag -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#posTag">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+	<rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+	<rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!--  -->
+<!--  -->
+<!-- ################################################################# -->
+<!-- # -->
+<!-- #    Object Properties -->
+<!-- # -->
+<!-- ################################################################# -->
+<!--  -->
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasAtmosphericTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasAtmosphericTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasTrigger"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasChildVariant -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasChildVariant">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:inverseOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasParentVariant"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasExternalTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasExternalTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasTrigger"/>
+	<rdfs:range rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#TextualTrigger"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasInternalTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasInternalTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasTrigger"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasParentVariant -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasParentVariant">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rdg"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+	<rdfs:domain rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<rdfs:range rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!--  -->
+<!--  -->
+<!-- ################################################################# -->
+<!-- # -->
+<!-- #    Data properties -->
+<!-- # -->
+<!-- ################################################################# -->
+<!--  -->
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasAtmosphericTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasAtmosphericTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasExternalTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasExternalTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasInternalTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasInternalTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+</rdf:Description>
+<!--  -->
+<!--  -->
+<!--  -->
+<!-- ################################################################# -->
+<!-- # -->
+<!-- #    Classes -->
+<!-- # -->
+<!-- ################################################################# -->
+<!--  -->
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Antinomy -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Antinomy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Auditive -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Auditive">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Mechanical"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Co-Hyponymy -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Co-Hyponymy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#CotextualAntinomy -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#CotextualAntinomy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Antinomy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#FunctionalProcessing -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#FunctionalProcessing">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Semantic"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Gloss -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Gloss">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#GraphicalOscillation -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#GraphicalOscillation">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Semantic"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Mechanical -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Mechanical">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#VariantNature"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Order -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Order">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#RadicalChange -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#RadicalChange">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#FunctionalProcessing"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rdg -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rdg">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<owl:equivalentClass rdf:nodeID="genid1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid1">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+	<owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:someValuesFrom rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rdg">
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rewriting -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rewriting">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rhythmic -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rhythmic">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Auditive"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Semantic -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Semantic">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#VariantNature"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#SuspectRdg -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#SuspectRdg">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<owl:equivalentClass rdf:nodeID="genid2"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid2">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+	<owl:onProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasTrigger"/>
+	<owl:someValuesFrom rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#SuspectRdg">
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rdg"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#TextualTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#TextualTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ThemeTrigger -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ThemeTrigger">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#VariantNature -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#VariantNature">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Mechanical"/>
+</rdf:Description>
+<!--  -->
+<!--  -->
+<!--  -->
+<!-- ################################################################# -->
+<!-- # -->
+<!-- #    Individuals -->
+<!-- # -->
+<!-- ################################################################# -->
+<!--  -->
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#EpisodeTopic -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#EpisodeTopic">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ThemeTrigger"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#GeneralTopic -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#GeneralTopic">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ThemeTrigger"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Liturgy -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Liturgy">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ScribalKnowledge -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ScribalKnowledge">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ThemeTrigger"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#SentenceMeaning -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#SentenceMeaning">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ThemeTrigger"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#'urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@ἐλπίσιν-1460@κεναῖς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#'urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@ἐλπίσιν-1460@κεναῖς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ttp://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ttp://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγον"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:πλόκον"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid3">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ttp://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγων"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#FunctionAssignment"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid4">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#ttp://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγων"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:πλόκον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:1.1325@ἔλειφθεν:rdgs:ἔβησαν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:1.1325@ἔλειφθεν:rdgs:ἔβησαν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:1.1325@ἔλειφθεν:rdgs:ἔλειφθεν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid5">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:1.1325@ἔλειφθεν:rdgs:ἔβησαν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:1.1325@ἔλειφθεν:rdgs:ἔλειφθεν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rhythmic"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:1.1325@ἔλειφθεν:rdgs:ἔλειφθεν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:1.1325@ἔλειφθεν:rdgs:ἔλειφθεν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.1030@παρανισσόμενοι:rdgs:παραμειβόμενοι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.1030@παρανισσόμενοι:rdgs:παραμειβόμενοι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.1030@παρανισσόμενοι:rdgs:παρανισσόμενοι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.1030@παρανισσόμενοι:rdgs:παρανισσόμενοι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.1030@παρανισσόμενοι:rdgs:παραμειβόμενοι"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.358@Ἐνετήιος:rdgs:μενεδήιος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.358@Ἐνετήιος:rdgs:μενεδήιος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.358@Ἐνετήιος:rdgs:ἐνετήιος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.358@Ἐνετήιος:rdgs:ἐνετήιος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.358@Ἐνετήιος:rdgs:μενεδήιος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid6">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.358@Ἐνετήιος:rdgs:ἐνετήιος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0001.tlg001.perseus-grc2:2.358@Ἐνετήιος:rdgs:μενεδήιος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rhythmic"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg001.perseus-grc1:510@ἔνδος-510@μοι:rdgs:ἐν_δομόις -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg001.perseus-grc1:510@ἔνδος-510@μοι:rdgs:ἐν_δομόις">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg001.perseus-grc1:510@ἔνδος-510@μοι:rdgs:ἔνδος_μοι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg001.perseus-grc1:510@ἔνδος-510@μοι:rdgs:ἔνδος_μοι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg001.perseus-grc1:510@ἔνδος-510@μοι:rdgs:ἐν_δομόις"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid7">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg001.perseus-grc1:510@ἔνδος-510@μοι:rdgs:ἔνδος_μοι"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg001.perseus-grc1:510@ἔνδος-510@μοι:rdgs:ἐν_δομόις"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1089@χηρεύσηι-1089@λέχος:rdgs:λέχος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1089@χηρεύσηι-1089@λέχος:rdgs:λέχος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1089@χηρεύσηι-1089@λέχος:rdgs:μόνος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid8">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1089@χηρεύσηι-1089@λέχος:rdgs:λέχος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1089@χηρεύσηι-1089@λέχος:rdgs:μόνος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1089@χηρεύσηι-1089@λέχος:rdgs:μόνος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:1089@χηρεύσηι-1089@λέχος:rdgs:μόνος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:4@hyp.Ἀπόλλων:rdgs:Ἀπόλλων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:4@hyp.Ἀπόλλων:rdgs:Ἀπόλλων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:4@hyp.Ἀπόλλων:rdgs:ἥλιος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:4@hyp.Ἀπόλλων:rdgs:ἥλιος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:4@hyp.Ἀπόλλων:rdgs:Ἀπόλλων"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid9">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:4@hyp.Ἀπόλλων:rdgs:ἥλιος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:4@hyp.Ἀπόλλων:rdgs:Ἀπόλλων"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάλψω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάλψω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάψω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάψω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάλψω"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid10">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάψω"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάλψω"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid11">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάψω"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc1:665@θάψω:rdgs:θάλψω"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διόβολον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διόβολον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διάβολον"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid12">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διόβολον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διάβολον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid13">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διόβολον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διάβολον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διάβολον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:128@διόβολον:rdgs:διάβολον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasAtmosphericTrigger rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Liturgy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:697@λέγεις:rdgs:λέγεις -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:697@λέγεις:rdgs:λέγεις">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:697@λέγεις:rdgs:ψέγεις -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:697@λέγεις:rdgs:ψέγεις">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:697@λέγεις:rdgs:λέγεις"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid14">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:697@λέγεις:rdgs:ψέγεις"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg002.perseus-grc2:697@λέγεις:rdgs:λέγεις"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:γύναι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:γύναι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:ξένε"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:πλέον"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid15">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:γύναι"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:πλέον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:ξένε -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:ξένε">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:πλέον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:290@γύναι:rdgs:πλέον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πολύ -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πολύ">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πόλις"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid16">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πολύ"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πόλις"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid17">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πολύ"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πόλις"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πόλις -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:329@πολύ:rdgs:πόλις">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:351@προυννέπω:rdgs:προτρέπω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:351@προυννέπω:rdgs:προτρέπω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:351@προυννέπω:rdgs:προυννέπω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:351@προυννέπω:rdgs:προυννέπω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:351@προυννέπω:rdgs:προτρέπω"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:374@ἐχθρῶν:rdgs:om. -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:374@ἐχθρῶν:rdgs:om.">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:374@ἐχθρῶν:rdgs:ἐχθρῶν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:374@ἐχθρῶν:rdgs:ἐχθρῶν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:374@ἐχθρῶν:rdgs:om."/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid18">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:374@ἐχθρῶν:rdgs:ἐχθρῶν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:374@ἐχθρῶν:rdgs:om."/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:400@κῆδος:rdgs:κῆδος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:400@κῆδος:rdgs:κῆδος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:400@κῆδος:rdgs:κῦδος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid19">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:400@κῆδος:rdgs:κῆδος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:400@κῆδος:rdgs:κῦδος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:400@κῆδος:rdgs:κῦδος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:400@κῆδος:rdgs:κῦδος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:503@πάτραν:rdgs:πάτραν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:503@πάτραν:rdgs:πάτραν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:503@πάτραν:rdgs:πρῶταν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid20">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:503@πάτραν:rdgs:πάτραν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:503@πάτραν:rdgs:πρῶταν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:503@πάτραν:rdgs:πρῶταν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:503@πάτραν:rdgs:πρῶταν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:594@γῆμαί:rdgs:γῆμαί -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:594@γῆμαί:rdgs:γῆμαί">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:594@γῆμαί:rdgs:τλῆναι"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid21">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:594@γῆμαί:rdgs:γῆμαί"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:594@γῆμαί:rdgs:τλῆναι"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:594@γῆμαί:rdgs:τλῆναι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:594@γῆμαί:rdgs:τλῆναι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:608@ἀραία-608@οὖσα:rdgs:ἀρὰς_διδοῦσα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:608@ἀραία-608@οὖσα:rdgs:ἀρὰς_διδοῦσα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:608@ἀραία-608@οὖσα:rdgs:ἀραία_γ’_οὖσα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:608@ἀραία-608@οὖσα:rdgs:ἀραία_γ’_οὖσα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:608@ἀραία-608@οὖσα:rdgs:ἀρὰς_διδοῦσα"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid22">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:608@ἀραία-608@οὖσα:rdgs:ἀραία_γ’_οὖσα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:608@ἀραία-608@οὖσα:rdgs:ἀρὰς_διδοῦσα"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rewriting"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:271@θυμουμένην:rdgs:θυμουμένην -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:271@θυμουμένην:rdgs:θυμουμένην">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:271@θυμουμένην:rdgs:μισουμένην"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid23">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:271@θυμουμένην:rdgs:θυμουμένην"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:271@θυμουμένην:rdgs:μισουμένην"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:271@θυμουμένην:rdgs:μισουμένην -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:271@θυμουμένην:rdgs:μισουμένην">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι-289@οὖν:rdgs:τε_πολλά_τοὺς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι-289@οὖν:rdgs:τε_πολλά_τοὺς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι-289@οὖν:rdgs:τι._ταῦτ’_οὖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι-289@οὖν:rdgs:τι._ταῦτ’_οὖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι-289@οὖν:rdgs:τε_πολλά_τοὺς"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid24">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι-289@οὖν:rdgs:τι._ταῦτ’_οὖν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.perseus-grc1:289@τι-289@οὖν:rdgs:τε_πολλά_τοὺς"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rewriting"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα:rdgs:γράματα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα:rdgs:γράματα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα:rdgs:πράγματα"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid25">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα:rdgs:γράματα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα:rdgs:πράγματα"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα:rdgs:πράγματα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:387@πράγματα:rdgs:πράγματα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγων"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:πλόκον"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid26">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγων"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#FunctionalProcessing"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid27">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:πλόκον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:λόγων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:πλόκον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:514@πλόκον:rdgs:πλόκον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:arg.16@καταμαθοῦσα:rdgs:καταμαθοῦσα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:arg.16@καταμαθοῦσα:rdgs:καταμαθοῦσα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:arg.16@καταμαθοῦσα:rdgs:ἰδοῦσα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:arg.16@καταμαθοῦσα:rdgs:ἰδοῦσα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasParentVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:arg.16@καταμαθοῦσα:rdgs:καταμαθοῦσα"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:arg.16@καταμαθοῦσα:rdgs:καταμαθοῦσα"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid28">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:arg.16@καταμαθοῦσα:rdgs:ἰδοῦσα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg005.perseus-grc1:arg.16@καταμαθοῦσα:rdgs:καταμαθοῦσα"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:360@ἀπαιδίαν:rdgs:ἀβουλίαν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:360@ἀπαιδίαν:rdgs:ἀβουλίαν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:360@ἀπαιδίαν:rdgs:ἀπαιδίαν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:360@ἀπαιδίαν:rdgs:ἀπαιδίαν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:360@ἀπαιδίαν:rdgs:ἀβουλίαν"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει:rdgs:λέγει -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει:rdgs:λέγει">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει:rdgs:ψέγει -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει:rdgs:ψέγει">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει:rdgs:λέγει"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid29">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει:rdgs:ψέγει"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:419@ψέγει:rdgs:λέγει"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:δέμας -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:δέμας">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:χέρας -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:χέρας">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:δέμας"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:χείρας"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid30">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:χέρας"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:δέμας"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Co-Hyponymy"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid31">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:χέρας"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:χείρας"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#GraphicalOscillation"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:χείρας -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg006.perseus-grc2:425@χέρας:rdgs:χείρας">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας:rdgs:γυναῖκας -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας:rdgs:γυναῖκας">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας:rdgs:δὲ_γυμνὰς"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid32">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας:rdgs:γυναῖκας"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας:rdgs:δὲ_γυμνὰς"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας:rdgs:δὲ_γυμνὰς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:311@γυναῖκας:rdgs:δὲ_γυμνὰς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:435@φίλαυλος:rdgs:φίλαυλος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:435@φίλαυλος:rdgs:φίλαυλος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:435@φίλαυλος:rdgs:φιλάδελφος"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:435@φίλαυλος:rdgs:φιλάδελφος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:435@φίλαυλος:rdgs:φιλάδελφος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων:rdgs:δούλων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων:rdgs:δούλων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων:rdgs:λέξων"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid33">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων:rdgs:δούλων"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων:rdgs:λέξων"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων:rdgs:λέξων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg012.perseus-grc2:633@δούλων:rdgs:λέξων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:μιᾶς_ἐκ_μητρὸς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:μιᾶς_ἐκ_μητρὸς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:ἐκ_μιᾶς_γαστρὸς"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:ἐκ μιᾶς μητρὸς"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid34">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:μιᾶς_ἐκ_μητρὸς"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:ἐκ_μιᾶς_γαστρὸς"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid35">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:μιᾶς_ἐκ_μητρὸς"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:ἐκ μιᾶς μητρὸς"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Order"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:ἐκ_μιᾶς_γαστρὸς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:ἐκ_μιᾶς_γαστρὸς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:ἐκ μιᾶς μητρὸς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς:rdgs:ἐκ μιᾶς μητρὸς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε:rdgs:μέθεσθε -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε:rdgs:μέθεσθε">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε:rdgs:μαίνεσθε"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid36">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε:rdgs:μέθεσθε"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε:rdgs:μαίνεσθε"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε:rdgs:μαίνεσθε -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg017.perseus-grc2:451@μέθεσθε:rdgs:μαίνεσθε">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.79@καλούμενα:rdgs:καλούμενα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.79@καλούμενα:rdgs:καλούμενα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.79@καλούμενα:rdgs:λεγόμενα"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid37">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.79@καλούμενα:rdgs:καλούμενα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.79@καλούμενα:rdgs:λεγόμενα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.79@καλούμενα:rdgs:λεγόμενα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐν_μανία -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐν_μανία">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐν_μανία"/>
+	<hasExternalTrigger rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">General Theme</hasExternalTrigger>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid38">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐν_μανία"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐν_μανία"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Rhythmic"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasChildVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοισι"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐν_μανία"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοισι"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid39">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοι"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasChildVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοισι"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#FunctionalProcessing"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid40">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοι"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐν_μανία"/>
+	<hasConservativeSpaceStructure rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</hasConservativeSpaceStructure>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοισι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοισι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasInternalTrigger rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:27.9@ἐναντίοι</hasInternalTrigger>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1000@δύστηνος:rdgs:δείλαιος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1000@δύστηνος:rdgs:δείλαιος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1000@δύστηνος:rdgs:δύστηνος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid41">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1000@δύστηνος:rdgs:δείλαιος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1000@δύστηνος:rdgs:δύστηνος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1000@δύστηνος:rdgs:δύστηνος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1000@δύστηνος:rdgs:δύστηνος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1012@κακὸν:rdgs:κακὸν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1012@κακὸν:rdgs:κακὸν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1012@κακὸν:rdgs:λόγον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1012@κακὸν:rdgs:λόγον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1012@κακὸν:rdgs:κακὸν"/>
+	<hasExternalTrigger rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1012@ἐρεῖ</hasExternalTrigger>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid42">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1012@κακὸν:rdgs:λόγον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1012@κακὸν:rdgs:κακὸν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1130@νόμους:rdgs:γένος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1130@νόμους:rdgs:γένος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1130@νόμους:rdgs:νόμους"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid43">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1130@νόμους:rdgs:γένος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1130@νόμους:rdgs:νόμους"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1130@νόμους:rdgs:νόμους -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1130@νόμους:rdgs:νόμους">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:κακῶς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:κακῶς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:καλῶς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:καλῶς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:κακῶς"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid44">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:καλῶς"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:κακῶς"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Antinomy"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid45">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:καλῶς"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1137@καλῶς:rdgs:κακῶς"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρὸν_λόγον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρὸν_λόγον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρὸν_χρόνον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρὸν_χρόνον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρῶν_λόγων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρῶν_λόγων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρῶν_πόνων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρῶν_πόνων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρὸν_λόγον"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρὸν_χρόνον"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρῶν_λόγων"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid46">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρῶν_πόνων"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρὸν_λόγον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid47">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρῶν_πόνων"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1268@σμικρῶν-@πόνων:rdgs:σμικρὸν_χρόνον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1367@πονεῖν:rdgs:πονεῖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1367@πονεῖν:rdgs:πονεῖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν:rdgs:ποιεῖν"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν:rdgs:τελεῖν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid48">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1367@πονεῖν:rdgs:πονεῖν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν:rdgs:ποιεῖν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#GraphicalOscillation"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid49">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:1367@πονεῖν:rdgs:πονεῖν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν:rdgs:τελεῖν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:223@αἴθοπος:rdgs:αἴθοπος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:223@αἴθοπος:rdgs:αἴθοπος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:223@αἴθοπος:rdgs:αἴθοπος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid50">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:223@αἴθοπος:rdgs:αἴθοπος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:223@αἴθοπος:rdgs:αἴθοπος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:224@φευκτάν:rdgs:φερτὰν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:224@φευκτάν:rdgs:φερτὰν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:224@φευκτάν:rdgs:φευκτάν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:224@φευκτάν:rdgs:φευκτάν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:224@φευκτάν:rdgs:φερτὰν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid51">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:224@φευκτάν:rdgs:φευκτάν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:224@φευκτάν:rdgs:φερτὰν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#CotextualAntinomy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:367@ἄρα:rdgs:τάλας -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:367@ἄρα:rdgs:τάλας">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:367@ἄρα:rdgs:ἄρα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:367@ἄρα:rdgs:ἄρα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:367@ἄρα:rdgs:τάλας"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid52">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:367@ἄρα:rdgs:ἄρα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:367@ἄρα:rdgs:τάλας"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:594@φρονεῖν:rdgs:λέγειν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:594@φρονεῖν:rdgs:λέγειν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:594@φρονεῖν:rdgs:φρονεῖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:594@φρονεῖν:rdgs:φρονεῖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:594@φρονεῖν:rdgs:λέγειν"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid53">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:594@φρονεῖν:rdgs:φρονεῖν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:ποιεῖ -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:ποιεῖ">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:φαίνει -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:φαίνει">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasExternalTrigger rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φανέντα</hasExternalTrigger>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:φύει -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:φύει">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:ποιεῖ"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:φαίνει"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid54">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:φύει"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:ποιεῖ"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid55">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:φύει"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:647@φύει:rdgs:φαίνει"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:864@ὕστατον:rdgs:ἔσχατον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:864@ὕστατον:rdgs:ἔσχατον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:864@ὕστατον:rdgs:ὕστατον"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid56">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:864@ὕστατον:rdgs:ἔσχατον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:864@ὕστατον:rdgs:ὕστατον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Gloss"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:864@ὕστατον:rdgs:ὕστατον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg003.perseus-grc2:864@ὕστατον:rdgs:ὕστατον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:384@αἰτητόν:rdgs:αἰτητόν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:384@αἰτητόν:rdgs:αἰτητόν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:384@αἰτητόν:rdgs:ὠνητόν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid57">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:384@αἰτητόν:rdgs:αἰτητόν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:384@αἰτητόν:rdgs:ὠνητόν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#CotextualAntinomy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:384@αἰτητόν:rdgs:ὠνητόν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:384@αἰτητόν:rdgs:ὠνητόν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθρα"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid58">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθρα"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#RadicalChange"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid59">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθρα"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθρα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:870-871@λάθα:rdgs:λάθρα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasExternalTrigger rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#GeneralTopic"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@θάνατος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@θάνατος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#TextualTrigger"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@ἐν-942@τάφοις:rdgs:τάφοις -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@ἐν-942@τάφοις:rdgs:τάφοις">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@ἐν-942@τάφοις:rdgs:ἐν_δόμοις"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid60">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@ἐν-942@τάφοις:rdgs:τάφοις"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@ἐν-942@τάφοις:rdgs:ἐν_δόμοις"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@ἐν-942@τάφοις:rdgs:ἐν_δόμοις -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@ἐν-942@τάφοις:rdgs:ἐν_δόμοις">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasExternalTrigger rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg004.perseus-grc2:942@θάνατος"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1201@μόνος-1201@κακοῖς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1201@μόνος-1201@κακοῖς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<hasExternalTrigger rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1201@μόνος-1201@κακοῖς"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1205@ἄγγος:rdgs:ἄγγος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1205@ἄγγος:rdgs:ἄγγος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:βουλοίμην -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:βουλοίμην">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:δεξαίμην -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:δεξαίμην">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:βουλοίμην"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:λεξαίμην"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid61">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:δεξαίμην"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:βουλοίμην"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#CotextualSynonymy"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid62">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:δεξαίμην"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:λεξαίμην"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid63">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:δεξαίμην"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:λεξαίμην"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:λεξαίμην -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην:rdgs:λεξαίμην">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν:rdgs:λέγειν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν:rdgs:λέγειν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν:rdgs:ψέγειν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν:rdgs:ψέγειν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν:rdgs:λέγειν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid64">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν:rdgs:ψέγειν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν:rdgs:λέγειν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος:rdgs:μάτην -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος:rdgs:μάτην">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasExternalTrigger rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#'urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@ἐλπίσιν-1460@κεναῖς"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος:rdgs:πάρος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid65">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος:rdgs:μάτην"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος:rdgs:πάρος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος:rdgs:πάρος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος:rdgs:πάρος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω:rdgs:λέγω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω:rdgs:λέγω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω:rdgs: ψέγω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω:rdgs: ψέγω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω:rdgs:λέγω"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid66">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω:rdgs: ψέγω"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω:rdgs:λέγω"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:427@τάφου:rdgs:τάρβους -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:427@τάφου:rdgs:τάρβους">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:427@τάφου:rdgs:τάφου -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:427@τάφου:rdgs:τάφου">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:427@τάφου:rdgs:τάρβους"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:560@λέξω:rdgs:λέξω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:560@λέξω:rdgs:λέξω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:561@λέξω:rdgs:δείξω"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid67">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:560@λέξω:rdgs:λέξω"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:561@λέξω:rdgs:δείξω"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#CotextualSynonym"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid68">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:560@λέξω:rdgs:λέξω"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:561@λέξω:rdgs:δείξω"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Visual"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:561@λέξω:rdgs:δείξω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:561@λέξω:rdgs:δείξω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:686@τέρματα:rdgs:πράγματα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:686@τέρματα:rdgs:πράγματα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:686@τέρματα:rdgs:τέρματα"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid69">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:686@τέρματα:rdgs:πράγματα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:686@τέρματα:rdgs:τέρματα"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:686@τέρματα:rdgs:τέρματα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:686@τέρματα:rdgs:τέρματα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν:rdgs:ποιεῖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν:rdgs:ποιεῖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν:rdgs:τελεῖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν:rdgs:τελεῖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος:rdgs:λέχος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος:rdgs:λέχος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος:rdgs:λόγος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid70">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος:rdgs:λέχος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος:rdgs:λόγος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος:rdgs:λόγος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0011.tlg007.perseus-grc2:251@λέχος:rdgs:λόγος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος:rdgs:μόρον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος:rdgs:μόρον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος:rdgs:τέλος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid71">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος:rdgs:μόρον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος:rdgs:τέλος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Gloss"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος:rdgs:τέλος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:24.124@τέλος:rdgs:τέλος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ἀγρούς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ἀγρούς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ὑγρούς"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid72">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ἀγρούς"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ὑγρούς"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ὑγρούς -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1117@ἀγρούς:rdgs:ὑγρούς">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:τἀττικὸν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:τἀττικὸν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:τἀττικὸν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid73">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:τἀττικὸν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1176@τἀττικὸν:rdgs:τἀττικὸν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:παθεῖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:παθεῖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:ποεῖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:ποεῖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:παθεῖν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid74">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:ποεῖν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1198@παθεῖν:rdgs:παθεῖν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:αἰτίας -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:αἰτίας">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:οἰκίας -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:οἰκίας">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:1496@οἰκίας:rdgs:αἰτίας"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μεταφροντίζετε -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μεταφροντίζετε">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μέγα_φροντίζετε"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:νυν_φροντίζετε"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:παλιν_φροντίζετε"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:πάνυ_φροντίζετε"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μέγα_φροντίζετε -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:μέγα_φροντίζετε">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:νυν_φροντίζετε -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:νυν_φροντίζετε">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:παλιν_φροντίζετε -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:παλιν_φροντίζετε">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:πάνυ_φροντίζετε -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:215@μεταφροντίζετε:rdgs:πάνυ_φροντίζετε">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:πυκνότητα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:πυκνότητα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:ὑγρότητα"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid75">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:πυκνότητα"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:ὑγρότητα"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:ὑγρότητα -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:384@πυκνότητα:rdgs:ὑγρότητα">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid76">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέραντον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:3@ἀπέραντον:rdgs:ἀπέρατον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:417@οἴνου:rdgs:οἴνου -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:417@οἴνου:rdgs:οἴνου">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:417@οἴνου:rdgs:ὕπνου"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:417@οἴνου:rdgs:ὕπνου -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:417@οἴνου:rdgs:ὕπνου">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσʼ -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσʼ">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:λέγουσʼ"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid77">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσʼ"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#GraphicalOscillation"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid78">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσʼ"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:λέγουσʼ"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:καλοῦσιν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:λέγουσʼ -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:452@καλοῦσʼ:rdgs:λέγουσʼ">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:κομψὸν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:κομψὸν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:σοφὸν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:σοφὸν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:κομψὸν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid79">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:σοφὸν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:649@κομψὸν:rdgs:κομψὸν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Hyponymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:λέγω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:λέγω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:ἕλω"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid80">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:λέγω"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:ἕλω"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#CotextualSynonym"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:ἕλω -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:845@ἕλω:rdgs:ἕλω">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:γενήσεται -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:γενήσεται">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:φανήσεται"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid81">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:γενήσεται"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:φανήσεται"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:φανήσεται -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:954@φανήσεται:rdgs:φανήσεται">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὐάερον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὐάερον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὐάερον"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:ἀέριον"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid82">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὐάερον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid83">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:εὔερον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:ἀέριον"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:ἀέριον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:121@εὔερον:rdgs:ἀέριον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:351@προυννέπω:rdgs:προτρέπω"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμοχθος"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμυθος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid84">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύφθογγος"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0006.tlg003.noedition:351@προυννέπω:rdgs:προτρέπω"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμοχθος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμοχθος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμυθος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:1380@λιγύφθογγος:rdgs:λιγύμυθος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δειπνεῖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δειπνεῖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ_πιεῖν"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid85">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δειπνεῖν"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ_πιεῖν"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ_πιεῖν -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0019.tlg006.perseus-grc2:495@δειπνεῖν:rdgs:δὲ_πιεῖν">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι:rdgs:ἀθανάτοισι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι:rdgs:ἀθανάτοισι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι:rdgs:ἀνθρώποισι"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι:rdgs:ἀνθρώποισι -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι:rdgs:ἀνθρώποισι">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος:rdgs:μόρον -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος:rdgs:μόρον">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος:rdgs:τέλος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid86">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος:rdgs:μόρον"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος:rdgs:τέλος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Synonymy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος:rdgs:τέλος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος:rdgs:τέλος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὐθρόνοις -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὐθρόνοις">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὔφρονος"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid87">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὐθρόνοις"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὔφρονος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#FunctionAssignment"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid88">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὐθρόνοις"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὔφρονος"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LexicalSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὔφρονος -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:2.22@εὐθρόνοις:rdgs:εὔφρονος">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων:rdgs:ἀγαφθέγκτων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων:rdgs:ἀγαφθέγκτων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων:rdgs:ἀφθόγγων"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non_iunior"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid89">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων:rdgs:ἀγαφθέγκτων"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non_iunior"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Antinomy"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων:rdgs:ἀφθόγγων -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0540.tlg033.perseus-grc2:6.91@ἀγαφθέγκτων:rdgs:ἀφθόγγων">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.1@λόγου:rdgs:λόγου -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.1@λόγου:rdgs:λόγου">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.1@λόγου:rdgs:νόμου"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid90">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.1@λόγου:rdgs:λόγου"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.1@λόγου:rdgs:νόμου"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.1@λόγου:rdgs:νόμου -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.1@λόγου:rdgs:νόμου">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:λόγου -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:λόγου">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:νόμου -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:νόμου">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:λόγου"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:πόνου"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid91">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:νόμου"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:λόγου"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid92">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:νόμου"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:πόνου"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#LemmaSelection"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:πόνου -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου:rdgs:πόνου">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:canior -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:canior">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:iunior -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:iunior">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:canior"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non_iunior"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non_minor"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:senior"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non_iunior -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non_iunior">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non_minor -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:non_minor">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:senior -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:12.1@iunior:rdgs:senior">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:inguineum -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:inguineum">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:virgineum -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:virgineum">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:2.5@virgineum:rdgs:inguineum"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pictas -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pictas">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+	<hasVariant rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pietas"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid93">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Axiom"/>
+	<owl:annotatedSource rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pictas"/>
+	<owl:annotatedProperty rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#hasVariant"/>
+	<owl:annotatedTarget rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pietas"/>
+	<hasVariantNature rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#RadicalChange"/>
+</rdf:Description>
+<!--  -->
+<!-- http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pietas -->
+
+<rdf:Description rdf:about="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#urn:cts:latinLit:phi1103.phi001.lascivaroma-lat1:4.4@pictas:rdgs:pietas">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+	<rdf:type rdf:resource="http://www.semanticweb.org/user/ontologies/2020/6/RdgT#Token"/>
+</rdf:Description>
+<!--  -->
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
+</rdf:RDF>

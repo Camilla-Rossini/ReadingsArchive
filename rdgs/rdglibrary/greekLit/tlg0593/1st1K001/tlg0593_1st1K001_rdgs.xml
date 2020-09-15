@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of</title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <biblStruct>
+					          <monogr>
+						            <title>Title</title>
+						            <author>Author</author>
+						            <editor role="editor">Editor</editor>
+						            <imprint>
+							              <pubPlace>Place</pubPlace>
+							              <publisher>publisher</publisher>
+							              <date>date</date>
+						            </imprint>
+					          </monogr>
+				        </biblStruct>
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		<readings>
+	  			
+	  			<rdg n='00176' change='' ref='urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.1@λόγου'>λόγου</rdg>
+				<rdg n='00177' change='' ref='urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:14.2@λόγου'>νόμου</rdg>
+				<rdg n='00178' change='' ref='urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.5@νόμου'>νόμου</rdg>
+				<rdg n='00179' change='' ref='urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.6@νόμου'>πόνου</rdg>
+				<rdg n='00180' change='' ref='urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:16.7@νόμου'>λόγου</rdg>
+				<rdg n='00181' change='' ref='urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:21.1@τῷ-@νόμῳ'>τῷ μώμῳ ὅν ἐνεθέμην λόγῳ </rdg>
+				<rdg n='00182' change='' ref='urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:21.1@τῷ-@νόμῳ'>τῷ λόγῳ νόμῳ ὅν ἐθέμην </rdg>
+				<rdg n='00183' change='' ref='urn:cts:greekLit:tlg0593.1st1K001.1st1K-grc1:21.1@τῷ-@νόμῳ'>τῷ νόμῳ</rdg>
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>

@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Oppianus' Halieutica</title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <biblStruct corresp="http://zotero.org/users/5925322/items/JIJZ3NK5" type="book" xml:id="Benedetti1973"><monogr><title level="m">Oppiani Halieutica: collazione dei manoscritti M U Z liber quartus</title><author><forename>F.</forename><surname>Benedetti</surname></author><imprint><date>1973</date><note type="url">https://books.google.it/books?id=cc9QzQEACAAJ</note></imprint></monogr></biblStruct>
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00387' change='' ref='urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος'>μόρον</rdg>
+<rdg n='00388' change='' ref='urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.116@τέλος'>τέλος</rdg>
+	  			<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.38@κρυερῷ:rdgs:χαλεπῷ" n="00001" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.38@κρυερῷ">χαλεπῷ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.46@ἄλκαρ:rdgs:ἕρκος" n="00002" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.46@ἄλκαρ">ἕρκος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.53@ἔρχεται:rdgs:ἵσταται" n="00003" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.53@ἔρχεται">ἵσταται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.61@ἀμεμφέα:rdgs:ἀστεμφέα" n="00004" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.61@ἀμεμφέα">ἀστεμφέα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.70@γαίης:rdgs:λαῶν" n="00005" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.70@γαίης">λαῶν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.72@ἑλισσόμενον:rdgs:ἑλκόμενον" n="00006" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.72@ἑλισσόμενον">ἑλκόμενον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.81@ἐμφέρεται:rdgs:ἐμφέρβεται" n="00007" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.81@ἐμφέρεται">ἐμφέρβεται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.81@ἐμφέρεται:rdgs:ἐντρέφεται" n="00008" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.81@ἐμφέρεται">ἐντρέφεται</rdg>
+				<rdg change="todo: maybe τυρὸν" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.463@ἀτρεκέως:rdgs:ῥηϊδίως" n="00009" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.463@ἀτρεκέως">ῥηϊδίως</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.108@ἀθερῖναι:rdgs:ἀνθερίναι" n="00010" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.108@ἀθερῖναι">ἀνθερίναι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.139@θαλάμαι:rdgs:θάλαμοί" n="00011" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.139@θαλάμαι">θάλαμοί</rdg>
+				<rdg change="todo: maybe καὶ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.140@καὶ-140@φάγροι:rdgs:ὀξύφαγοι" n="00012" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.140@καὶ-140@φάγροι">ὀξύφαγοι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.144@σπαίρουσι:rdgs:ζώουσι" n="00013" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.144@σπαίρουσι">ζώουσι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.150@ἄγοντες:rdgs:ἒχοντες" n="00014" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.150@ἄγοντες">ἒχοντες</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.161@χαροπῆς:rdgs:χαλεπῆς" n="00015" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.161@χαροπῆς">χαλεπῆς</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.179@ἄλην:rdgs:αὖλιν" n="00016" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.179@ἄλην">αὖλιν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.184@κολίαι:rdgs:σκολίαι" n="00017" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.184@κολίαι">σκολίαι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.234@κατὰ:rdgs:ποτί" n="00018" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.234@κατὰ">ποτί</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.241@μένει:rdgs:μίμνει" n="00019" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.241@μένει">μίμνει</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.235@δεσμὰ:rdgs:θεσμά" n="00020" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.235@δεσμὰ">θεσμά</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.253@ὑπὸ:rdgs:ὑπὲρ" n="00021" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.253@ὑπὸ">ὑπὲρ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.270@νομὸν:rdgs:μυχὸν" n="00022" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.270@νομὸν">μυχὸν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.275@γάνος:rdgs:βέλος" n="00023" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.275@γάνος">βέλος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.318@τυτθὰ:rdgs:μικρὰ" n="00024" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.318@τυτθὰ">μικρὰ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.382@φορβή:rdgs:μορφὴ" n="00025" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.382@φορβή">μορφὴ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.383@γάνυνται:rdgs:νέμονται" n="00026" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.383@γάνυνται">νέμονται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.397@μίσγοντʼ:rdgs:σμίγοντ'" n="00027" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.397@μίσγοντʼ">σμίγοντ'</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.409@πάτερ:rdgs:μάχαρ" n="00028" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.409@πάτερ">μάχαρ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.424@μίσγονται:rdgs:σμίγονται" n="00029" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.424@μίσγονται">σμίγονται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.442@τοὶ:rdgs:οἳ" n="00030" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.442@τοὶ">οἳ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.442@τοὶ:rdgs:οἱ" n="00031" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.442@τοὶ">οἱ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.501@ὀρίνει:rdgs:ἐγείρει" n="00032" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.501@ὀρίνει">ἐγείρει</rdg>
+				<rdg change="todo: maybe ὄλβον" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.561@ὄλβον-561@ὀλέθρου:rdgs:ὃν_πάρος_εἶχεν" n="00033" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.561@ὄλβον-561@ὀλέθρου">ὃν πάρος εἶχεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.591@βέλος:rdgs:γόνου" n="00034" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.591@βέλος">γόνου</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.591@βέλος:rdgs:γένος" n="00035" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.591@βέλος">γένος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.596@χῶρον:rdgs:χώραν" n="00036" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.596@χῶρον">χώραν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.597@δόμοισι:rdgs:νόμοισι" n="00037" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.597@δόμοισι">νόμοισι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.599@τέκωνται:rdgs:τέκοιεν" n="00038" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.599@τέκωνται">τέκοιεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.611@ἐννεμέθονται:rdgs:ἐννέμονται" n="00039" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.611@ἐννεμέθονται">ἐννέμονται</rdg>
+				<rdg change="" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.619@δρόμον:rdgs:πόρον" n="00040" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.619@δρόμον">πόρον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.629@στόλον:rdgs:πόρον" n="00041" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.629@στόλον">πόρον</rdg>
+				<rdg change="todo: maybe περὶ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.655@περὶ-655@σφετέρην:rdgs:περισφαίραν" n="00042" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.655@περὶ-655@σφετέρην">περισφαίραν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.738@ἔνθεν:rdgs:ὂθεν" n="00043" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.738@ἔνθεν">ὂθεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.767@ἠπεδανῆς:rdgs:οὐτιδανῆς" n="00044" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.767@ἠπεδανῆς">οὐτιδανῆς</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.768@τοκήων:rdgs:γόνοιο" n="00045" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.768@τοκήων">γόνοιο</rdg>
+				<rdg change="todo: maybe αὐτίκα" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.770@αὐτίκα-770@πᾶσα:rdgs:εὐθύς_ἃπασα" n="00046" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.770@αὐτίκα-770@πᾶσα">εὐθύς ἃπασα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.771@μισγομένη:rdgs:σμιγομένη" n="00047" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.771@μισγομένη">σμιγομένη</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.771@παλιμπνοίῃσι:rdgs:ἃμα_πλήθῃσι" n="00048" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.771@παλιμπνοίῃσι">ἃμα πλήθῃσι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.797@ἀργινόεσσα:rdgs:ἀργεινόεσα" n="00049" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.797@ἀργινόεσσα">ἀργεινόεσα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.797@ἀργινόεσσα:rdgs:ἀργενήεσσα" n="00050" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.797@ἀργινόεσσα">ἀργενήεσσα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.797@ἀργινόεσσα:rdgs:ἀργήνεσα" n="00051" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:1.797@ἀργινόεσσα">ἀργήνεσα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.6@περιφαέα:rdgs:περικκαλλέα" n="00052" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.6@περιφαέα">περικκαλλέα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.8@ἀναγκαίη:rdgs:ἀναγκη" n="00053" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.8@ἀναγκαίη">ἀναγκη</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.16@δῶκαν:rdgs:ἐδίδαξαν" n="00054" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.16@δῶκαν">ἐδίδαξαν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.40@ἐνναίουσι:rdgs:ἐνάουσι" n="00055" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.40@ἐνναίουσι">ἐνάουσι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.40@ἐνναίουσι:rdgs:ναίουσι" n="00056" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.40@ἐνναίουσι">ναίουσι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.45@πλώουσιν:rdgs:τελέθουσιν" n="00057" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.45@πλώουσιν">τελέθουσιν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.51@πυρόεντος:rdgs:κρυόεντος" n="00058" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.51@πυρόεντος">κρυόεντος</rdg>
+				<rdg change="todo: maybe βίην" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.52@βίην-52@ὤπασεν:rdgs:θεὸς_ὢπασεν_βίην" n="00059" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.52@βίην-52@ὤπασεν">θεὸς ὢπασεν βίην</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.53@θήγεται:rdgs:φύεται" n="00060" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.53@θήγεται">φύεται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.69@ὕπτιον:rdgs:ἣπτιον" n="00061" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.69@ὕπτιον">ἣπτιον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.99@τιτύσκων:rdgs:ἑρείδων" n="00062" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.99@τιτύσκων">ἑρείδων</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.109@δοχμίη:rdgs:λοχμαίς" n="00063" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.109@δοχμίη">λοχμαίς</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.113@αἰόλα:rdgs:ποικίλα" n="00064" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.113@αἰόλα">ποικίλα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.119@οἰμήσασα:rdgs:ὁρμήσασα" n="00065" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.119@οἰμήσασα">ὁρμήσασα</rdg>
+				<rdg change="todo: maybe τʼ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.143@τʼ-143@ἐτύχθη:rdgs:τετύχθη" n="00066" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.143@τʼ-143@ἐτύχθη">τετύχθη</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.143@ἐτύχθη:rdgs:ἐτύχθαι" n="00067" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.143@ἐτύχθη">ἐτύχθαι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.147@ἐπίφρονας:rdgs:εὒφρονας" n="00068" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.147@ἐπίφρονας">εὒφρονας</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.148@ἐπιτέρπεται:rdgs:μεγατέρπεται" n="00069" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.148@ἐπιτέρπεται">μεγατέρπεται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.151@πόνος:rdgs:πόρος" n="00070" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.151@πόνος">πόρος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.156@μόρον:rdgs:κόρον" n="00071" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.156@μόρον">κόρον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.156@μόρον:rdgs:φόνον" n="00072" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.156@μόρον">φόνον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.157@ἔστησεν:rdgs:στήσεται" n="00073" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.157@ἔστησεν">στήσεται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.157@λόχον:rdgs:δόλον" n="00074" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.157@λόχον">δόλον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.160@στιβαρὸν:rdgs:γλαφυρὸν" n="00075" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.160@στιβαρὸν">γλαφυρὸν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.161@γέλων:rdgs:γέλω" n="00076" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.161@γέλων">γέλω</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.163@εἰσόκʼ:rdgs:εἰς_ὃ_κεν" n="00077" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.163@εἰσόκʼ">εἰς ὃ κεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.183@ἄγουσι:rdgs:φέρουσι" n="00078" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.183@ἄγουσι">φέρουσι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.195@ἕλοντο:rdgs:ἒθεντο" n="00079" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.195@ἕλοντο">ἒθεντο</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.198@ἐναίσιμόν:rdgs:αἰνήσιμον" n="00080" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.198@ἐναίσιμόν">αἰνήσιμον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.208@λυσσομανῆ:rdgs:λύσσαν_ἀεὶ" n="00081" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.208@λυσσομανῆ">λύσσαν ἀεὶ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.211@πέσῃ:rdgs:θάνη" n="00082" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.211@πέσῃ">θάνη</rdg>
+				<rdg change="todo: maybe δέ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.213@δέ-213@τοι:rdgs:δέοι" n="00083" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.213@δέ-213@τοι">δέοι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.222@πολλοὶ:rdgs:τοῖοι" n="00084" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.222@πολλοὶ">τοῖοι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.232@ἄπυστον:rdgs:ἂπιστον" n="00085" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.232@ἄπυστον">ἂπιστον</rdg>
+				<rdg change="todo: maybe φορβήν" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.240@φορβήν-240@ἐφράσσαντο:rdgs:χροιὴν_ἀλλάξαντο" n="00086" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.240@φορβήν-240@ἐφράσσαντο">χροιὴν ἀλλάξαντο</rdg>
+				<rdg change="todo: maybe φορβήν" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.240@φορβήν-240@ἐφράσσαντο:rdgs:χροιὴν_ἠλλάξαντο" n="00087" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.240@φορβήν-240@ἐφράσσαντο">χροιὴν ἠλλάξαντο</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.242@ἀέλλας:rdgs:θύελλας" n="00088" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.242@ἀέλλας">θύελλας</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.244@δαίνυνται:rdgs:ἒδουσιν" n="00089" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.244@δαίνυνται">ἒδουσιν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.272@ἀμφιπεσόντος:rdgs:άμφιβαλόντος" n="00090" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.272@ἀμφιπεσόντος">άμφιβαλόντος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.286@θοοὶ:rdgs:ἑοὶ" n="00091" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.286@θοοὶ">ἑοὶ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.289@στίβον:rdgs:ὁδὸν" n="00092" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.289@στίβον">ὁδὸν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.296@δυσμόρου:rdgs:δύσμορον" n="00093" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.296@δυσμόρου">δύσμορον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.302@ὑφέξεται:rdgs:ὑφαίνεται" n="00094" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.302@ὑφέξεται">ὑφαίνεται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.308@ἀγκύλον:rdgs:ὀλοὸν" n="00095" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.308@ἀγκύλον">ὀλοὸν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.310@πάγου:rdgs:πέτραν" n="00096" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.310@πάγου">πέτραν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.319@δειλὸν:rdgs:δολιχὸν" n="00097" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.319@δειλὸν">δολιχὸν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.333@γυρώσασα:rdgs:κυκλώσασα" n="00098" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.333@γυρώσασα">κυκλώσασα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.420@αἰολοφύλοις:rdgs:αἰολοφοίτοις" n="00099" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.420@αἰολοφύλοις">αἰολοφοίτοις</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.429@κικλήσκουσιν:rdgs:καλέουσιν" n="00100" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.429@κικλήσκουσιν">καλέουσιν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.429@κικλήσκουσιν:rdgs:κυκλήσκουσιν" n="00101" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.429@κικλήσκουσιν">κυκλήσκουσιν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.430@πανέξοχον:rdgs:δυσώνυμον" n="00102" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.430@πανέξοχον">δυσώνυμον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.469@πέλει:rdgs:βίη" n="00103" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.469@πέλει">βίη</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.469@πυρόεσσά:rdgs:κρύοεσσα" n="00104" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.469@πυρόεσσά">κρύοεσσα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.471@ὀλέθριον:rdgs:ἂγριον" n="00105" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.471@ὀλέθριον">ἂγριον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.484@βέλος:rdgs:μέλος" n="00106" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.484@βέλος">μέλος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.487@ἀΐδηλον:rdgs:ἀρίδηλον" n="00107" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.487@ἀΐδηλον">ἀρίδηλον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.487@ἀΐδηλον:rdgs:ἀφανῆ" n="00108" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.487@ἀΐδηλον">ἀφανῆ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.510@θοὴν:rdgs:πικρὴν" n="00109" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.510@θοὴν">πικρὴν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.516@πολλάκι:rdgs:πολλάκις_Μἐνόρυσαν" n="00110" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.516@πολλάκι">πολλάκις Μἐνόρυσαν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.516@πολλάκι:rdgs:ἐνώρυσαν" n="00111" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.516@πολλάκι">ἐνώρυσαν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.575@ἄτροποι:rdgs:ἀμετάτρεπτοι" n="00112" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.575@ἄτροποι">ἀμετάτρεπτοι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.576@κεφαλῆς:rdgs:πλευρῆς" n="00113" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:2.576@κεφαλῆς">πλευρῆς</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.9@φέρτατε:rdgs:φίλτατε" n="00114" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.9@φέρτατε">φίλτατε</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι:rdgs:ἀνθρώποισι" n="00115" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι">ἀνθρώποισι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι:rdgs:θεοῖσιν" n="00116" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.10@ἀθανάτοισι">θεοῖσιν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.16@Διὸς:rdgs:θεῶν" n="00117" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.16@Διὸς">θεῶν</rdg>
+				<rdg change="todo: maybe ἔτʼ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.24@ἔτʼ-24@ὄχθαι:rdgs:ἒθειραι" n="00118" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.24@ἔτʼ-24@ὄχθαι">ἒθειραι</rdg>
+				<rdg change="todo: maybe ἔτʼ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.24@ἔτʼ-24@ὄχθαι:rdgs:αἲθεραι" n="00119" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.24@ἔτʼ-24@ὄχθαι">αἲθεραι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.41@πολυπαίπαλος:rdgs:πολυδαίδαλος" n="00120" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.41@πολυπαίπαλος">πολυδαίδαλος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.44@ἄτρομος:rdgs:ἂλκιμος" n="00121" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.44@ἄτρομος">ἂλκιμος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.65@ῥιπῇσιν:rdgs:πνοιῇσιν" n="00122" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.65@ῥιπῇσιν">πνοιῇσιν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.71@ἔσσεται:rdgs:ἳσταται" n="00123" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.71@ἔσσεται">ἳσταται</rdg>
+				<rdg change="todo: maybe τῶν" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.74@τῶν-74@μὲν:rdgs:ἂλλοι_δ'_ἐν" n="00124" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.74@τῶν-74@μὲν">ἂλλοι δ' ἐν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.75@ἐΰπλοκον:rdgs:ἐύπλωκον" n="00125" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.75@ἐΰπλοκον">ἐύπλωκον</rdg>
+				<rdg change="todo: maybe πλέον" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.79@πλέον-79@ἐντύνεσθαι:rdgs:πλεόμενα_τύνασθαι" n="00126" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.79@πλέον-79@ἐντύνεσθαι">πλεόμενα τύνασθαι</rdg>
+				<rdg change="todo: maybe πλέον" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.79@πλέον-79@ἐντύνεσθαι:rdgs:πλέον_ἐντύνασθαι" n="00127" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.79@πλέον-79@ἐντύνεσθαι">πλέον ἐντύνασθαι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.84@δολορραφέων:rdgs:πολυρραφέων" n="00128" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.84@δολορραφέων">πολυρραφέων</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.85@ἔχουσι:rdgs:ἒθηκαν" n="00129" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.85@ἔχουσι">ἒθηκαν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.108@δηρὸν:rdgs:θυμὸν" n="00130" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.108@δηρὸν">θυμὸν</rdg>
+				<rdg change="todo: maybe μέλει" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.112@μέλει-112@βίου:rdgs:βιάζεται" n="00131" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.112@μέλει-112@βίου">βιάζεται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.115@τέλος:rdgs:μόρον" n="00132" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.115@τέλος">μόρον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.134@νεάτην:rdgs:πύματην" n="00133" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.134@νεάτην">πύματην</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.135@θηρήτορος:rdgs:ἀργευτῆρος" n="00134" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.135@θηρήτορος">ἀργευτῆρος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.140@γένος:rdgs:δέμας" n="00135" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.140@γένος">δέμας</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.148@ἄρκος:rdgs:ἂλγος" n="00136" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.148@ἄρκος">ἂλγος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.154@φύγεν:rdgs:πέσεν" n="00137" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.154@φύγεν">πέσεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.167@θολὸς:rdgs:θορὸς" n="00138" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.167@θολὸς">θορὸς</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.178@πουλυπόδων:rdgs:τευθῖδης_ᾔ" n="00139" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.178@πουλυπόδων">τευθῖδης ᾔ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.178@πουλυπόδων:rdgs:τευθῖδος_ᾔ" n="00140" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.178@πουλυπόδων">τευθῖδος ᾔ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.182@γελόωντες:rdgs:μαργόωντες" n="00141" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.182@γελόωντες">μαργόωντες</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.201@αἴσχεσιν:rdgs:ἂρχεσιν" n="00142" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.201@αἴσχεσιν">ἂρχεσιν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.211@αὐλίζονται:rdgs:ὀπλίζονται" n="00143" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.211@αὐλίζονται">ὀπλίζονται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.214@ἦτορ:rdgs:ἒθνη" n="00144" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.214@ἦτορ">ἒθνη</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.231@δαῖτα:rdgs:δείπνα" n="00145" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.231@δαῖτα">δείπνα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.242@ἱμερόεν:rdgs:ἡμερόεν" n="00146" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.242@ἱμερόεν">ἡμερόεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.242@ἱμερόεν:rdgs:ἣσυχον" n="00147" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.242@ἱμερόεν">ἣσυχον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.248@κλάζουσα:rdgs:κλάζουσι" n="00148" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.248@κλάζουσα">κλάζουσι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.270@ἑλὼν:rdgs:ἃγων" n="00149" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.270@ἑλὼν">ἃγων</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.280@εὔστοχος:rdgs:ἒξοχος" n="00150" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.280@εὔστοχος">ἒξοχος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.281@γυίων:rdgs:χειρῶν" n="00151" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.281@γυίων">χειρῶν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.290@μολίβδῳ:rdgs:κελεύθῳ" n="00152" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.290@μολίβδῳ">κελεύθῳ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.291@κλίνει:rdgs:νέυει" n="00153" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.291@κλίνει">νέυει</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.303@δῶρα:rdgs:δαῖτα" n="00154" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.303@δῶρα">δαῖτα</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.303@χανὼν:rdgs:λαβὼν" n="00155" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.303@χανὼν">λαβὼν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.303@μετέδραμεν:rdgs:μετέλαβεν" n="00156" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.303@μετέδραμεν">μετέλαβεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.309@μάρναται:rdgs:μαίνεται" n="00157" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.309@μάρναται">μαίνεται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.315@βαρύν:rdgs:βαθὺν" n="00158" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.315@βαρύν">βαθὺν</rdg>
+				<rdg change="todo: maybe ἰχθύες" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.323@ἰχθύες-323@ἄλλοι:rdgs:ὃμοιος_ἂλλος" n="00159" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.323@ἰχθύες-323@ἄλλοι">ὃμοιος ἂλλος</rdg>
+				<rdg change="todo: maybe ἰχθύες" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.323@ἰχθύες-323@ἄλλοι:rdgs:ὃμιλος_ἂλλος" n="00160" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.323@ἰχθύες-323@ἄλλοι">ὃμιλος ἂλλος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.326@τείροντες:rdgs:φθείροντες" n="00161" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.326@τείροντες">φθείροντες</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.329@ἄλγεσι:rdgs:ἓλκεΐ_ΣΕΝΖΑ_ACC" n="00162" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.329@ἄλγεσι">ἓλκεΐ ΣΕΝΖΑ ACC</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.329@ἄλγεσι:rdgs:ἓλκεσι" n="00163" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.329@ἄλγεσι">ἓλκεσι</rdg>
+				<rdg change="todo: maybe ἀγρώσσει" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.339@ἀγρώσσει-339@ἁλιεύς:rdgs:ἂγρην_πιανέειοι" n="00164" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.339@ἀγρώσσει-339@ἁλιεύς">ἂγρην πιανέειοι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.341@μέγιστον:rdgs:πάχιστον" n="00165" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.341@μέγιστον">πάχιστον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.340@γέγηθε:rdgs:μέμηλε" n="00166" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.340@γέγηθε">μέμηλε</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.344@ἐνείης:rdgs:ὀθείνης" n="00167" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.344@ἐνείης">ὀθείνης</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.347@πλεκτὸν:rdgs:κρυπτὸν" n="00168" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.347@πλεκτὸν">κρυπτὸν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.347@δόλον:rdgs:κῦτος" n="00169" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.347@δόλον">κῦτος</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.352@ἀεὶ:rdgs:ἒχειν" n="00170" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.352@ἀεὶ">ἒχειν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.353@ἐντίθεται:rdgs:ἐντιθέναι" n="00171" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.353@ἐντίθεται">ἐντιθέναι</rdg>
+				<rdg change="todo: maybe πρόπαν" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.356@πρόπαν-356@ἦμαρ:rdgs:πανῆμαρ" n="00172" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.356@πρόπαν-356@ἦμαρ">πανῆμαρ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.360@αὐτόμολοί:rdgs:αὐτοματοὶ" n="00173" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.360@αὐτόμολοί">αὐτοματοὶ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.363@ἐν:rdgs:ἐκ" n="00174" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.363@ἐν">ἐκ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.363@κακὴν:rdgs:ἰκελὴν" n="00175" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.363@κακὴν">ἰκελὴν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.364@ἄτη:rdgs:ἂγρη" n="00176" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.364@ἄτη">ἂγρη</rdg>
+				<rdg change="todo: maybe οὐ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.382@οὐ-382@κίχον:rdgs:οὐκ_ἒχον" n="00177" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.382@οὐ-382@κίχον">οὐκ ἒχον</rdg>
+				<rdg change="todo: maybe οὐ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.382@οὐ-382@κίχον:rdgs:οὐκ_ἒσχον" n="00178" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.382@οὐ-382@κίχον">οὐκ ἒσχον</rdg>
+				<rdg change="todo: maybe οὐ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.382@οὐ-382@κίχον:rdgs:οὐχ_εἷλον" n="00179" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.382@οὐ-382@κίχον">οὐχ εἷλον</rdg>
+				<rdg change="todo: maybe οὐ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.382@οὐ-382@κίχον:rdgs:κοίλοιο" n="00180" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.382@οὐ-382@κίχον">κοίλοιο</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.387@θυμῷ:rdgs:δεσμῷ" n="00181" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.387@θυμῷ">δεσμῷ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.389@τειρομένοιο:rdgs:μυρομένοιο_(τει_sscr)" n="00182" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.389@τειρομένοιο">μυρομένοιο (τει sscr)</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.391@ἔσσυται:rdgs:ἒδραμεν" n="00183" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.391@ἔσσυται">ἒδραμεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.397@ἕρκος:rdgs:δόμον" n="00184" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.397@ἕρκος">δόμον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.410@ἐπέδραμε:rdgs:ἐπέπτατο" n="00185" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.410@ἐπέδραμε">ἐπέπτατο</rdg>
+				<rdg change="todo: maybe δʼ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.411@δʼ-411@ἐφέπονται:rdgs:δὲ_φέρονται" n="00186" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.411@δʼ-411@ἐφέπονται">δὲ φέρονται</rdg>
+				<rdg change="todo: maybe δʼ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.411@δʼ-411@ἐφέπονται:rdgs:δὲ_ἓπονται" n="00187" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.411@δʼ-411@ἐφέπονται">δὲ ἓπονται</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.431@δύσθηρον:rdgs:δυσθήρατον" n="00188" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.431@δύσθηρον">δυσθήρατον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.439@ὕεσσί:rdgs:σύεσσι" n="00189" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.439@ὕεσσί">σύεσσι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.444@κύκλῳ:rdgs:κόλπῳ" n="00190" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.444@κύκλῳ">κόλπῳ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.463@μεμιγμένον:rdgs:πεφυρμένον" n="00191" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.463@μεμιγμένον">πεφυρμένον</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.470@λεπτοῖς:rdgs:βαιοῖς" n="00192" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.470@λεπτοῖς">βαιοῖς</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.489@Περσεφόνην:rdgs:μονουγήνην" n="00193" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.489@Περσεφόνην">μονουγήνην</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.489@Περσεφόνην:rdgs:τὴν_Περσεφόνην" n="00194" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.489@Περσεφόνην">τὴν Περσεφόνην</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.489@Περσεφόνην:rdgs:μονουγηνῆ" n="00195" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.489@Περσεφόνην">μονουγηνῆ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.493@ἀγαυοτέρη:rdgs:ἀγνοτέρην" n="00196" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.493@ἀγαυοτέρη">ἀγνοτέρην</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.493@ἀγαυοτέρη:rdgs:ἀγλαοτέρην" n="00197" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.493@ἀγαυοτέρη">ἀγλαοτέρην</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.496@θόρεν:rdgs:πέλεν" n="00198" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.496@θόρεν">πέλεν</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.502@ξείνῳ:rdgs:κείνῳ" n="00199" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.502@ξείνῳ">κείνῳ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.574@ἐλόωντες:rdgs:ἐλάσαντες" n="00200" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.574@ἐλόωντες">ἐλάσαντες</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.575@πότμῳ:rdgs:θύμῳ" n="00201" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.575@πότμῳ">θύμῳ</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.603@περιστομίῳ:rdgs:περιστομέω" n="00202" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.603@περιστομίῳ">περιστομέω</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.603@μογέοντες:rdgs:μογέουσαι" n="00203" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.603@μογέοντες">μογέουσαι</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.604@ἁλόντες:rdgs:ἁλοῦσαι" n="00204" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.604@ἁλόντες">ἁλοῦσαι</rdg>
+				<rdg change="todo: maybe δὲ" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.625@δὲ-625@Ῥοδανοῖο:rdgs:δ'_Ἠριδανοῖο" n="00205" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.625@δὲ-625@Ῥοδανοῖο">δ' Ἠριδανοῖο</rdg>
+				<rdg change="noneed1" id="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.630@ἐπιπλώουσι:rdgs:ἐνιπλήθουσι" n="00206" ref="urn:cts:greekLit:tlg0023.tlg001.perseus-grc2:3.630@ἐπιπλώουσι">ἐνιπλήθουσι</rdg>
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>

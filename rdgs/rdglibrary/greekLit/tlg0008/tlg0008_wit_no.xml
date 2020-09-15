@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title></title>
+				        <author>Camilla Rossini</author>
+				        
+			      </titleStmt>
+			      <publicationStmt>
+				        
+			        <date cert="" type="release">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	
+        </refsDecl>
+			      
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who="" />	
+
+		    </revisionDesc>
+		    <listWit>
+				<witness xml:id="C">Parisinus Suppl. Gr. 841</witness>
+				<witness xml:id="E">Laurentianus LX</witness>
+				<witness xml:id="B">Laurentianus LX, 1</witness>
+			</listWit>
+			<listBibl>
+				<bibl xml:id="Kaibel"><biblStruct type="book" xml:id="Kaibel1887" corresp="http://zotero.org/users/5925322/items/6KNBWB9Y"><monogr><title level="m">Athenaei Naucratitae Deipnosophistarum Libri XV</title><author><forename>Georg</forename><surname>Kaibel</surname></author><edition>1</edition><imprint><pubPlace>Leipzig</pubPlace><publisher>Teubner</publisher><date>1887</date></imprint></monogr></biblStruct></bibl>
+				<bibl xml:id="Mus"></bibl>
+				<bibl xml:id="Ges"></bibl>				
+			</listBibl>
+	  </teiHeader>
+	  <text xml:lang="grc">
+	  	<body>
+	  		<wit witName="E">
+      			<rdg ref="urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐν_μανία" />
+      		</wit>
+      		<wit witName="Kaibel" annotation="coll. k 412">
+      			<rdg ref="urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοι" />
+      		</wit>
+      		<wit witName="C">
+      			<rdg ref="urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.27.9@ἐναντίοι:rdgs:ἐναντίοισι" />
+      		</wit>
+      		<wit witName="B">
+      			<rdg ref="urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.79@καλούμενα:rdgs:λεγόμενα" />
+      		</wit>
+
+	  	</body>
+	  </text>
+	</TEI>
+
+<!--
+  'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:1.2@δείπνῳ:rdgs:λόγῳ' : ['CE'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:1.2@δείπνῳ:rdgs:δείπνῳ ' : ['Kaibel'], 
+' ' : ['B'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:3.80@καλούμενα:rdgs:καλούμενα' : [''], 
+
+
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I 48.20@Τριφολῖνος:rdgs:Τριφαλῖνος' : ['C'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I 48.20@Τριφολῖνος:rdgs:Τριφολῖνος' : ['E'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I 54.10@πρίηπος:rdgs:πρίαμος' : ['E'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I 54.10@πρίηπος:rdgs:πρίηπος' : ['C'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.2.4@μόνος:rdgs:μόνιος' : ['E'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.2.4@μόνος:rdgs:μόνος' : ['BCD'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.4.21@Πομπιλίου:rdgs:πομπηίου' : ['CE'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.4.21@Πομπιλίου:rdgs:Πομπιλίου' : ['Mus.'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.5.34@ἐκ-I.5.34@Γέλας:rdgs:ε(trattino_soprascr) ἀγέλας' : ['CE'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.5.34@ἐκ-I.5.34@Γέλας:rdgs:ἐκ Γέλας' : ['B, Mus.'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.6.26@Σκιάθῳ:rdgs:Σκιάθῳ' : ['Gesner ex Clem. Al. Paed. II 1,3'], 
+'urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:I.6.26@Σκιάθῳ:rdgs:συμαίθῳ' : ['CE'],
+  -->

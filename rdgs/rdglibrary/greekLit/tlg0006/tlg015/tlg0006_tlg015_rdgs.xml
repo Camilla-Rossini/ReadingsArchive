@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="" schematypens=""?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	 <teiHeader>
+		   <fileDesc>
+			     <titleStmt>
+				       <title>Readings from some manuscripts of the tradition of Euripides' Phoinissae</title>
+				       <author>Camilla Rossini</author>
+				       <!--<sponsor></sponsor>
+				       <principal></principal>
+				       <respStmt>
+					         <resp>Prepared under the supervision of</resp>
+				              <name></name>
+				       </respStmt>-->
+			     </titleStmt>
+			     <publicationStmt>
+				       <!--<publisher></publisher>
+				       <pubPlace></pubPlace>
+				       <authority></authority>-->
+			       <date type="release" cert="">2020</date>
+			     </publicationStmt>
+			     <sourceDesc>
+				       <biblStruct type="book" xml:id="Mastronarde2004" corresp="http://zotero.org/users/5925322/items/8NNG2B3Z"><monogr><title level="m">Euripides. Phoenissae</title><idno type="ISBN">0-521-60446-X</idno><author><forename>Donald J</forename><surname>Mastronarde</surname></author><imprint><pubPlace>Cambridge</pubPlace><publisher>Cambridge University Press</publisher><date>2004</date></imprint></monogr></biblStruct>
+			     </sourceDesc>
+		   </fileDesc>
+		   <encodingDesc>
+        <refsDecl n="CTS">
+         	<!-- ?? -->
+       </refsDecl>
+			     <!--<refsDecl>
+				       <refState unit="book"/>
+				       <refState unit="line"/>
+			     </refsDecl>-->
+		   </encodingDesc>
+		   <profileDesc>
+			     <langUsage>
+				       <language ident="grc">Greek</language>
+				       <language ident="en">English</language>
+			     </langUsage>
+		   </profileDesc>
+		   <revisionDesc>
+           <change when="" who=""></change>	
+
+		   </revisionDesc>
+	 </teiHeader>
+	 <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+	  			<rdg n='00274' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς'>μιᾶς ἐκ μητρὸς</rdg>
+<rdg n='00275' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς'>ἐκ μιᾶς μητρὸς</rdg>
+<rdg n='00276' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:11@μιᾶς-11@μητρὸς'>ἐκ μιᾶς γαστρὸς</rdg>
+
+	  			<rdg n='00011' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:1376@κτανεῖν-@θʼ'>κτανεῖν</rdg>
+<rdg n='00012' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:1376@κτανεῖν-@θʼ'> κτανεῖν θʼ</rdg>
+<rdg n='00013' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:1376@κτανεῖν-@θʼ'>καταθανεῖν θʼ</rdg>
+<rdg n='00014' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:1376@κτανεῖν-@θʼ'>κτειναί θʼ</rdg>
+<rdg n='00015' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:1376@κτανεῖν-@θʼ'>κτεῖναι δʼ</rdg>
+<rdg n='00016' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:1376@κτανεῖν-@θʼ'>κτεῖναι δʼ</rdg>
+<rdg n='00017' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:1376@κτανεῖν-@θʼ'>κτανεῖν δʼ</rdg>
+<rdg n='00018' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:362@κτάνῃ'>θάνη</rdg>
+<rdg n='00019' change='' ref='urn:cts:greekLit:tlg0006.tlg015.perseus-grc2:362@κτάνῃ'>κτάνῃ</rdg>
+			</readings>
+	  	</body>
+	 </text>
+	</TEI>
+

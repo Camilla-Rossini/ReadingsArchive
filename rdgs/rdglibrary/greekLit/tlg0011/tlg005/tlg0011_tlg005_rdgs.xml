@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="" schematypens=""?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Readings from some manuscripts of the tradition of Sophocles' Electra</title>
+				        <author>Camilla Rossini</author>
+				        <!--<sponsor></sponsor>
+				        <principal></principal>
+				        <respStmt>
+					          <resp>Prepared under the supervision of</resp>
+				               <name></name>
+				        </respStmt>-->
+			      </titleStmt>
+			      <publicationStmt>
+				        <!--<publisher></publisher>
+				        <pubPlace></pubPlace>
+				        <authority></authority>-->
+			        <date type="release" cert="">2020</date>
+			      </publicationStmt>
+			      <sourceDesc>
+				        <biblStruct>
+					          <monogr>
+						            <title>Title</title>
+						            <author>Author</author>
+						            <editor role="editor">Editor</editor>
+						            <imprint>
+							              <pubPlace>Place</pubPlace>
+							              <publisher>publisher</publisher>
+							              <date>date</date>
+						            </imprint>
+					          </monogr>
+				        </biblStruct>
+			      </sourceDesc>
+		    </fileDesc>
+		    <encodingDesc>
+         <refsDecl n="CTS">
+         	<!-- ?? -->
+        </refsDecl>
+			      <!--<refsDecl>
+				        <refState unit="book"/>
+				        <refState unit="line"/>
+			      </refsDecl>-->
+		    </encodingDesc>
+		    <profileDesc>
+			      <langUsage>
+				        <language ident="grc">Greek</language>
+				        <language ident="en">English</language>
+			      </langUsage>
+		    </profileDesc>
+		    <revisionDesc>
+            <change when="" who=""></change>	
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text xml:lang="grc, en">
+	  	<body>
+	  		<readings>
+<rdg n='00322' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1205@ἄγγος'>ἄγγος</rdg>
+<rdg n='00323' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1205@ἄγγος'>ἄλγος</rdg>
+<rdg n='00324' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος'>πάρος</rdg>
+<rdg n='00325' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1460@πάρος'>μάτην</rdg>
+<rdg n='00326' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:427@τάφου'>τάφου</rdg>
+<rdg n='00327' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:427@τάφου'>τάρβους</rdg>
+
+
+	  			<rdg n='00009' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:956@κτανεῖν'>θανεῖν</rdg>
+<rdg n='00010' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:956@κτανεῖν'>κτανεῖν</rdg>
+<rdg n='00020' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:821@κτάνῃ'>θάνω</rdg>
+<rdg n='00021' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:821@κτάνῃ'>κτάνῃ</rdg>
+<rdg n='00026' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1487@κτανὼν'>θανὼν</rdg>
+<rdg n='00027' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1487@κτανὼν'>κτανὼν</rdg>
+<rdg n='00030' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:537@κτανὼν'>κτανὼν</rdg>
+<rdg n='00031' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:537@κτανὼν'>κατὼν</rdg>
+<rdg n='00046' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:308@τοῖς'>τοι </rdg>
+<rdg n='00047' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:308@τοῖς'>τοῖς </rdg>
+<rdg n='00141' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην'>δεξαίμην</rdg>
+<rdg n='00142' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην'>λεξαίμην </rdg>
+<rdg n='00143' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1305@δεξαίμην'>βουλοίμην </rdg>
+<rdg n='00144' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:560@λέξω'>λέξω </rdg>
+<rdg n='00145' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:561@λέξω'>δείξω </rdg>
+<rdg n='00156' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν'>ψέγειν</rdg>
+<rdg n='00157' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1423@λέγειν'>λέγειν </rdg>
+<rdg n='00158' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω'> ψέγω </rdg>
+<rdg n='00159' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:1467@λέγω'>λέγω</rdg>
+<rdg n='00199' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν'>ποεῖν</rdg>
+<rdg n='00200' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν'>ποιεῖν</rdg>
+<rdg n='00201' change='' ref='urn:cts:greekLit:tlg0011.tlg005.perseus-grc2:947@τελεῖν'>τελεῖν</rdg>
+			</readings>
+	  	</body>
+	  </text>
+	</TEI>
+
